@@ -6,13 +6,11 @@ id,nomor_registrasi,nama,tipe,komposisi,indikasi
 926,DKL0804130337A1,comtusi (rasa strawberry),sirup,oxomemazine| guaifenesin,batuk alergi|batuk berdahak
 552,DKL7804407610B1,salbron,tablet,salbutamol sulfate,asma bronkial|bronkritis kronik|emfisema
 4170,DKL1208018337A1,bdm,sirup,betamethasone,alergi saluran pernapasan|alergi kulit|mata
-7873,TR132673741,jagak - bebas gula,,nan,
+7873,TR132673741,jagak - bebas gula,,,
 1496,DTL2032209837A1,nipe expectorant adult,sirup,guaifenesin,
 1022,DTL0504129337A1,obh combi batuk + flu rasa madu,sirup,succus liquiritiae| paracetamol| ammonium chloride| pseudoephedrine hydrochloride| chlorphenamine maleate,batuk|demam|sakit kepala|hiding bersin-bersin
 4196,DKL1433531317A1,destavell,tablet,desloratadine,alergi rinitis nasal|rinitis intermiten persisten|pruritus|urtikaria khronik idiopathik
-5929,DKL9604004504B1,citoprim,kaplet,sulfamethoxazole,"
-
-infeksi sal cerna|infeksi sal nafas|infeksi bakteri"
+5929,DKL9604004504B1,citoprim,kaplet,sulfamethoxazole,infeksi sal cerna|infeksi sal nafas|infeksi bakteri
 9085,DKI1631600710B1,coveram,tablet,perindopril arginine| amlodipine besilate,hipertensi|penyakit arteri koroner
 6616,DKL8714802610A1,zoralin,tablet,ketoconazole,kandidiasis mukokutan khronis|infeksi jamur sistemik
 8978,DKL0411634010B1,v-bloc,tablet,carvedilol,hipertensi|gagal jantung kronik
@@ -56,9 +54,7 @@ infeksi sal cerna|infeksi sal nafas|infeksi bakteri"
 5698,GKL1940700401B1,cefadroxil monohydrate,kapsul,cefadroxil monohydrate,infeksi saluran pernafasan|infeksi saluran kemih kelamin|infeksi kulit jaringan lunak
 4443,DBL1840403712A1,d-cool,tablet,dequalinium chloride,infeksi bakteri|jamur|fungi|rongga mulut tenggorokan
 671,TR172604491,air mancur minyak telon plus lavender,minyak,oleum anisi,perut kembung
-4409,DBL9104508712A1,degirol,tablet,dequalinium chloride,"
-
-tenggorokan|peradangan rongga mulut tenggorokan|gingivitis|faringitis|periodontitis|laringitis|angina|infeksi selaput lendir mulut stomatitis"
+4409,DBL9104508712A1,degirol,tablet,dequalinium chloride,tenggorokan|peradangan rongga mulut tenggorokan|gingivitis|faringitis|periodontitis|laringitis|angina|infeksi selaput lendir mulut stomatitis
 1405,DKL7619929810A1,hustab,tablet,bromhexine hydrochloride| diphenhydramine hydrochloride| paracetamol,batuk
 3001,DBL8716102436A1,xepamol,tetes,paracetamol,demam|nyeri sendi|nyeri telinga|sakit kepala|reumatik|flu infeksi
 2350,DKL0621632117A1,aclonac 25,tablet,diclofenac potassium,rematoid atritis akut kronis|spondilitis ankilosa|dismenore|nyeri tulang|nyeri gigi ringan
@@ -83,16 +79,12 @@ tenggorokan|peradangan rongga mulut tenggorokan|gingivitis|faringitis|periodonti
 7494,TR212314861,nutrimax echinacea extract,kapsul,echinacea purpurea fructus,
 2621,DBL0627508204B1,pacetik-500,kaplet,paracetamol,sakit kepala|sakit gigi|demam
 9019,DKL1821024310A1,blocand 8,tablet,candesartan cilexetil,gagal jantung|gangguan fungsi sistolik ventrikel kiri|hipertensi
-2076,DKL8818803909A1,opistan,kaplet,mefenamic acid,"
-
-sakit kepala|sakit gigi|nyeri haid primer|nyeri trauma|nyeri otot|nyeri paska operasi"
+2076,DKL8818803909A1,opistan,kaplet,mefenamic acid,sakit kepala|sakit gigi|nyeri haid primer|nyeri trauma|nyeri otot|nyeri paska operasi
 990,DTL1541200337A1,benadryl wet cough,sirup,guaifenesin| bromhexine hydrochloride,batuk berdahak
 3657,DKL1804527617A1,spasmal,tablet,paracetamol| hyoscine butylbromide,nyeri paroxismal lambung usus halus|nyeri spastik saluran empedu|saluran kemih organ genital wanita
 6021,GKL1312427438A1,erythromycin,sirup,erythromycin,infeksi saluran nafas
 8836,DKL0507917004B1,versibet,tablet,glimepiride,diabetes melitus tipe 2|non-insulin-dependent type ii diabetes melitus|niddm
-2243,DBL1722726104A1,bodrex demam,kaplet,paracetamol,"
-
-nyeri sakit kepala|sakit gigi|demam|flu"
+2243,DBL1722726104A1,bodrex demam,kaplet,paracetamol,nyeri sakit kepala|sakit gigi|demam|flu
 9156,DKL0305033810B1,hyperil,tablet,ramipril,hipertensi|gagal jantung kongestif|infark miokard
 4730,DTL7603810346A1,cendo vision,tetes,tetryzoline,iritasi mata
 4941,DKL0217618128A1,clinium,gel,clindamycin phosphate,akne vulgaris
