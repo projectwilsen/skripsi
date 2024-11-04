@@ -1,0 +1,646 @@
+standardized_disease,list_of_diseases_fuzzy_tfidf_fuzzy_tfidf
+aborsi septik,"['abortus septik', 'infeksi abortus septik', 'aborsi septik']"
+abses,"['abses', 'abs']"
+abses gigi,['abses gigi']
+abses paru,"['abs paru', 'abses paru']"
+adenoma endokrin multiple,['adenoma endokrin multiple']
+adesilentikular,['adesilentikular']
+adnexitis,"['adnexitis', 'dakriosistitis adnexitis']"
+akne,"['akne berat', 'acne vulgaris papulapustula', 'akne vulgarisjerawat ringan', 'akne vulgaris', 'acne ringan', 'acne vulgaris', 'akne pustularis', 'akne nekrotika', 'acne', 'akne vulgaris ringan sedang', 'acne vulgaris papulapustula berat', 'akne vulgarisjerawat', 'akne', 'acne eksim', 'akne pustular']"
+akrosia,"['akrosia', 'akrosianosis']"
+alergi,"['gangguan alergi', 'alergi', 'akibat alergi', 'alergi akut kronis', 'peradangan alergi', 'penyakit alergi', 'reaksi alergi', 'gi kondisi alergi', 'gejala alergi', 'alergi ringan', 'alergi inflamasi', 'gi alergi']"
+alergi dermatologi,"['alergi kulit mukosa', 'gangguan kulit akibat alergi', 'penyakit penyakit dermatologis alergik', 'penyakit kulit akibat reaksi alergi', 'alergi dermatologi', 'penyakit dermatologis alergi', 'penyakit dermatologis alergi lainnya', 'reaksi alergi kulit', 'gangguan kulit alergi', 'penyakit dermatologis alergik', 'gangguan alergi kulit', 'alergi kulit']"
+alergi dingin,"['badan dingin', 'urtikaria dingin', 'alergi dingin']"
+alergi makanan,['alergi makanan']
+alergi mata,"['alergi kulit mata', 'alergi mata', 'alergi kelopak mata']"
+alergi obat,"['alergi obat', 'reaksi alergi obatobatan']"
+alergi saluran pernapasan,"['alergi saluran pernapasan', 'alergi pernapasan hidung']"
+alopesia androgenetika,"['alopesia androgenetika', 'kebotakan androgenetika', 'androgenetica alopecia', 'kebotakan androgenetika androgenetica alopecia']"
+ambeien,['ambeien']
+amebiasis,"['amubiasis ekstra intestinal', 'hepatic amoebiasis', 'amubiasis intra intestinal', 'amoebiasis intestinal', 'intestinal amoebiasis', 'amoebiasis intestinal hepar', 'amubiasis', 'amebiasis', 'amoebiasis', 'amubiasis intestinal akut', 'amubiasis intestinal']"
+amenore,"['amenore', 'amenore primer sekunder', 'amenore psikogenik', 'amenorre', 'amenore primer dan sekunder', 'amenore primer', 'amenore galaktorea', 'amenore sekunder', 'amenorrhea']"
+anemia,['anemia']
+anemia akibat pendarahan,"['pendarahan hidung', 'anemia akibat pendarahan', 'pendarahan']"
+anemia defisiensi besi,"['anemia defisiensi zat besi', 'anemia kekurangan zat besi', 'defisiensi zat besi dan asam folat', 'defisiensi zat besi', 'defisiensi zat besi pencegahan', 'defisiensi zat besi gejala', 'defisiensi zat besi asam folat']"
+anemia megaloblastik,"['anemia makrositik', 'anemia megaloblastik disertai kekurangan vitamin c dan b kompleks terutama pada kehamilan', 'anemia megaloblastik', 'anemia megaloblastik dan makrositik', 'anemia megaloblastik makrositik', 'anemia megaloblastik disertai kekurangan vitamin c b kompleks terutama kehamilan']"
+anemia pada kehamilan dan menyusui,"['anemia pada kehamilan dan menyusui', 'anemia kehamilan menyusui']"
+anemia pernisiosa,"['anemia pernisiosa', 'pernisiosa']"
+aneurisma otak,['aneurisma']
+angina,['angina']
+angina pectoris,"['angina pektoris', 'angina pectoris', 'pektoris', 'pektosis']"
+angina prinzmetal,"['prinzmetal', 'angina varian', 'angina prinzmetal, angina varian', 'angina prinzmetal']"
+angina stabil,"['angina stabil', 'angina stabil kronis']"
+angina tidak stabil,['angina tidak stabil']
+angina vincent,"['infeksi vincent', 'angina vincent']"
+angioedema,"['angioedema', 'angioderma', 'urtikaria angioedema']"
+ankylosing spondylitis,"['ankylosing spondilitis', 'spondilitis ankilosa', 'spondilitis ankilosing', 'spondilitas ankilosa', 'ankylosing spondylititis', 'ankilosa spondilitis', 'spondilitis', 'oa ra ankilosing spondilitis', 'ankylosing spondylitis', 'ankilosing spondilitis', 'ra ankilosing spondilitis', 'aankilosing spondilitis']"
+anoreksia nervosa,"['anoreksia', 'hilang nafsu makan anoreksia', 'nafsu makan anak', 'anorexia', 'anoreksia kehilangan nafsu makan', 'nafsu makan']"
+anovulasi,['anovulasi']
+ansietas,['ansietas']
+aritmia,"['gangguan ritme irama atrium', 'gangguan ritme irama berhubungan', 'aritmia ventrikel supraventrikel', 'disritmia jantung', 'aritmia jantung', 'disritmia kordis', 'aritmia']"
+arteriosklerosis,['arteriosklerosis']
+arthritis,"['atritis akut kronis', 'nyeri arthritis ringan', 'arthitis', 'artritis idiopatik juvenil', 'arthisis', 'artritis akut', 'artritis', 'arthritis']"
+arthritis gout,"['gout', 'serangan akut gout', 'arthritis gout akut', 'serangan gout akut', 'gout akut', 'artritis gout akut', 'gout artritis akut']"
+asam urat,"['asam urat akut', 'kelebihan asam urat', 'urat kaku', 'produksi asam urat berlebihan', 'asam urat']"
+ascariasis,"['ascariasis', 'ascaris lumbricoides', 'askariasis']"
+asites,['asites']
+asma,"['asma berat', 'asma ringan', 'asma', 'dispnea akibat asma bronkhial', 'asma sedang', 'bronkial asma', 'asma bronkial', 'asma bronkhial', 'serangan asma akut', 'asma dermatitis', 'asma kronis', 'asthma bronkial', 'asma akut', 'asthmatoid bronchitis', 'asmatikus', 'asma bronkial kronik', 'obstruksi saluran nafas asma bronkhial', 'asthma', 'asmatik asma bronkial', 'asma bronkhial khronik', 'asma berat akut', 'astma', 'asma akut berat', 'status asmatikus']"
+aspergillosis,"['aspergilosis', 'aspergillosis']"
+asthenia,['astenia']
+aterosklerosis,"['artherosklerosis', 'aterosklerosis vaskular', 'aterosklerosis']"
+atoni,['atoni']
+atrial fibrilasi,"['fibrilasi atrium paroxismal', 'fibrilasi flutter atrium paroksismal', 'fibrilasi atrium', 'atrial fibrilasi']"
+atrial flutter,['atrial flutter']
+bakteremia,['bakteremia']
+batu empedu,"['empedu', 'batu empedu']"
+batu ginjal,"['batu oksalat', 'batu oksalat ginjal saluran kemih', 'batu ginjal']"
+batu kandung kemih,"['kandung kemih aktif', 'batu urin', 'batu urin saluran kemih', 'gejala kandung kemih aktif', 'batu kandung kemih']"
+batuk,"['batuk produktifberdahak nonproduktifkering', 'batuk yang disertai peradangan saluran pernafasan bagian atas', 'batuk yang disebabkan oleh alergi', 'batuk karena bronchitis', 'batuk produktifberdahak  nonproduktifkering', 'batuk disertai peradangan saluran pernafasan bagian atas', 'meredakan batuk', 'batuk bronchitis', 'batuk menahun', 'batuk akut kronik', 'batuk disebabkan alergi', 'batuk panas', 'batuk gatal', 'batuk karena emphysema', 'gejala batuk', 'batuk disebabkan oleh alergi', 'batuk akibat alergi', 'batuk alergi', 'batuk karena alergi', 'batuk sesak', 'batuk', 'batuk tenggorokan', 'batuk rangsangan selaput pernafasan']"
+batuk berdahak,"['batuk mukolitik', 'batuk berdahak alergi', 'batuk produktifberdahak', 'mukolitik', 'batuk berdahak', 'ekspektoran batuk berdahak', 'batuk produktif', 'batuk berdahak disertai alergi', 'susah mengeluarkan dahak', 'dahak mukus', 'gangguan batuk berdahak', 'batuk dahak kental', 'batuk berdahak karena alergi', 'batuk produktif berdahak', 'ekspektoran gangguan batuk berdahak', 'batuk ikke berdahak', 'dahak kental', 'dahak']"
+batuk kering,"['batuk tidak berdahak disertai bersinbersin alergi', 'batuk yang tidak berdahak disertai bersinbersin atau alergi', 'gejala batuk tidak berdahak', 'batuk nonproduktiftidak berdahak', 'batuk non produktif', 'batuk kering', 'batuk nonproduktifkering', 'batuk nonproduktif']"
+batuk kronis,"['batuk kronis akut', 'batuk kronis']"
+batuk pilek,"['batuk pilek', 'batuk/pilek', 'batuk berhubungan flu gangguan pernapasan', 'batuk menyertai pilek alergi', 'batukpilek', 'batuk berhubungan pilek']"
+batuk rejan,"['batuk rejan', 'batuk rejanpertusis']"
+batuk tidak berdahak,"['tidak berdahak', 'batuk tidak berdahak']"
+bau badan,['bau badan']
+bau mulut,"['bau mulut sedap', 'bau mulut']"
+bengkak,"['bengak', 'bengkak memar', 'bengkak akibat terpukul', 'bengkak', 'bengkak atau memar']"
+benjolan payudara,"['benjolan benjolan payudara', 'benjolan payudara']"
+berat badan berlebih,"['kelebihan berat badan', 'berat badan berlebih']"
+bersin,"['bersin disertai batuk', 'bersin bersin', 'pilek bersinbersin', 'bersin dan hidung tersumbat karena flu', 'bersinbersin', 'bersin', 'bersinbersin disertai batuk', 'bersin hidung tersumbat flu', 'bersin bersin yang disertai batuk', 'pilek bersin', 'bersinbersin yang disertai batuk', 'bersin bersin disertai batuk']"
+biang keringat,"['biang keringat', 'gatal akibat keringat', 'biang keringat alergi', 'biang keringet']"
+bibir kering,"['bibir pecahpecah', 'bibir pecah pcah', 'bibir pecah pecah', 'kulit pecah pecah sudut mulut', 'bibir kering']"
+biduran,"['urtikaria biduran', 'gatalgatal biduran', 'biduran', 'kaligata', 'gangguan alergi urtikaria biduran kaligata kronis', 'biduran kaligata kronis']"
+bisul,"['bisul', 'bisul bernanah', 'bisul gatal']"
+blastomikosis,['blastomikosis']
+blefaritis,"['blepharitis', 'blefaritis alergi radang kelopak mata akibat alergi', 'blefaritis non purulen', 'blefaritis', 'blefaritis nonpurulen']"
+blefarokonjungtivitis,"['blefarokonjungtivitis keratokonjungtivitis', 'blefarokonjungtivitis']"
+bph (benign prostatic hyperplasia),"['bph (benign prostatic hyperplasia)', 'benign prostatic hyperplasia', 'bph']"
+bromokriptin,['bromokriptin']
+bronkiektasis,"['bronkiektasis', 'bronkiektasi', 'bronkhiektasis']"
+bronkiolitis,"['bronchiolitis', 'bronkiolitis']"
+bronkitis,"['bronkitis', 'bronchitis', 'kaitan bronkhitis', 'bronkhitis', 'bronkitis alergi']"
+bronkitis akut dan kronis,"['bronchitis akut kronik', 'bronkitis asmatik', 'bronkitis kronis', 'eksaserbasi akut bronkitis kronik', 'eksaserbasi akut dari bronkitis kronik', 'eksaserbasi bronkitis kronis', 'ppok', 'bronkhitis kronis eksaserbasi akut', 'bronkhitis khronik emfisema', 'exaserbasi akut bronkhitis khronik', 'bronkitis akut atau kronik', 'bronkhitis kronis dan eksaserbasi kumatnya penyakit atau gejala penyakit secara mendadak akut', 'bronkhitis kronis eksaserbasi kumatnya penyakit gejala penyakit secara mendadak akut', 'bronkhitis khronik', 'ppok bronkhitis khronis', 'eksaserbasi bakteri akut bronkitis kronis', 'bronkitis akut', 'eksaserbasi akut dr bronkitis kronik', 'eksaserbasi kronis akut', 'bronkhitis akut kronis', 'bronkhitis kronis dan eksaserbasi akut', 'infeksi akut bronkitis kronis', 'eksesarbasi bronkitis kronis', 'bronkhitis akut dan kronis', 'bronkhitis akut  khronis', 'bronkhitis asmatik', 'bronkitis kronik eksaserbasi akut', 'bronkhitis akut dan kronik', 'bronkitis kronik', 'bronkhitis khronis', 'bronkhitis khronis exaserbasi akut', 'eksaserbasi dari bronkhitis kronis', 'bronkhitis pneumonia', 'eksaserbasi bakteri akut bronkitis kronik', 'bronkhitis akut khronis', 'bronkitis purulen', 'bronkhitis akut kronik', 'exaserbasi', 'infeksi traktus respiratorius bronkhitis akut sinusitis akut', 'eksaserbasi bakterial akut bronkitis kronik', 'bronkitis khronis', 'eksaserbasi bronkhitis kronis', 'bronkitis asmatis', 'eksaserbasi kumatnya penyakit gejala penyakit secara mendadak akut', 'bronkitis akut dan kronik', 'bronkhitis kronis serta eksaserbasi kumatnya penyakit gejala penyakit secara mendadak akut', 'eksaserbasi akut bronkitis kronis', 'bronkritis kronik', 'bronkhitis akut kronis serta eksaserbasi kumatnya penyakit gejala penyakit secara mendadak akut', 'bronchitis akut dan kronik', 'bronkitis menahun', 'bronkitis akut kronik', 'bronkitis asmatikus', 'bronkhitis akut berulang', 'bronkhitis akut dan kronis serta eksaserbasi kumatnya penyakit atau gejala penyakit secara mendadak akut', 'exaserbasi bronkhitis khronik', 'bronkhitis akut', 'bronkitis kronis eksaserbasi akut', 'akut bronkhitis', 'eksaserbasi bronkhitis khronik', 'bronkhitis kronik', 'bronkhitis kronis serta eksaserbasi kumatnya penyakit atau gejala penyakit secara mendadak akut', 'bronkhitis kronis']"
+bronkitis pneumonia,['bronkitis pneumonia']
+bronkopasma,"['bronkospasme kronik', 'kondisi2 bronkhospastik', 'bronkospasme pada semua jenis asma bronkial', 'bronkospasme jenis asma bronkial', 'bronkhospastik lain', 'bronkospasme semua jenis asma bronkial', 'bronkospasme akut', 'bronkospasme reversibel', 'bronkhospasme reversibel', 'bronkospasma', 'bronkospasme bronkitis kronik', 'penyakit2 paru menimbulkan komplikasi bronkhospasme', 'bronkospasme', 'bronkhospastik', 'bronkhospasme', 'bronkospasme kronis']"
+bronkopneumonia,['bronkopneumonia']
+bronkopulmonal,['bronkopulmonal']
+brucellosis,"['brucellosis', 'bruselosis']"
+bursitis,['bursitis']
+cacar air,['cacar air']
+cacing cambuk,['cacing cambuk']
+cacing gelang ascaris lumbricoides,"['cacing gelang ascaris lumbricoides', 'cacing gelang']"
+cacing kremi,"['kremi', 'cacingan', 'cacing kremi', 'infeksi cacing campuran', 'infeksi cacing kremi cacing gelang cacing tambang cacing cambuk infeksi cacing campuran tersebut', 'enterobius vermicularis', 'infeksi cacing kremi enterobius vermicularis', 'cacing']"
+cacing tambang,['cacing tambang']
+campak,['campak']
+candidiasis,"['kriptokokosis kandidemia', 'kandiasis di organ genital', 'kandidiasis sistemik serius', 'kandidiasis gastrointestinal', 'kandidiasis subkutan', 'kandidiasi genetikal', 'infeksi kandida invasif', 'intertrigo kandida', 'infeksi kandida sistemik', 'infeksi kandida subkutan invasif', 'kandidiasis esofaringeal', 'kandidemia', 'moniliasis', 'gastrointestinal kandidosis sistemik', 'infeksi kandida sistemik serius', 'infeksi mikosis sistemik kandidiasis', 'candida candidiasis', 'kandidiasis saluran cerna', 'kandidiasis vulvovag', 'infeksi kandida kriptokokal sistemik', 'kandidiasis vulvovagina', 'kandidiasis sistemik yang serius', 'infeksi kandida kriptokokal', 'kandida', 'kandidemia infeksi kandida sistemik', 'kandiasis organ genital', 'kandda vagina', 'orofaringeal infeksi kandida sistemik serius', 'kandidiasis sistemik', 'kandidosis', 'kandidiasis kutaneus moniliasis', 'kandidiasi genetikal teritama', 'kandidosis vulvovaginal', 'kandidiasis kutaneus', 'kandidiasis diseminata', 'kandida jamur bakteri gram positif', 'kandidiasis', 'kandiasis', 'kandidiasis esofageal', 'kandidiasis invasif', 'candidiasis']"
+cedera,['cedera']
+cedera olahraga,"['cedera karena olahraga dan kecelakaan', 'cedera karena olahraga', 'cedera berolahraga kecelakaan', 'cedera jaringan lunak', 'cedera olahraga', 'cedera olahraga kecelakaan']"
+cerebral palsy,"['kelumpuhan cerebral', 'gangguan serebral', 'cerbral palsy', 'cerebral palsy', 'gangguan sirkulasi serebral']"
+chlamydia,"['trachomatis', 'chlamydia trachomatis', 'chlamydia']"
+cocidioidomycosis,"['cocci dioidomycosis', 'coci dioidomycosis']"
+covid-19,"['covid19', 'covid 19', 'covid-19']"
+cystitis,['cystitis']
+dakriosistitis,['dakriosistitis']
+deep vein thrombosis,['deep vein thrombosis']
+defisiensi asam folat,"['defisiensi asam folat', 'defisensi asam folat']"
+defisiensi estrogen,['defisiensi estrogen']
+defisiensi natrium hipovolemik,['defisiensi natrium hipovolemik']
+defisiensi progesteron,['defisiensi progesteron']
+defisiensi tiamin,"['defisiensi tiamin', 'kekurangan thiamin mononitrate']"
+defisiensi vitamin b,"['defisiensi vitamin b', 'defisiensi folic acid', 'kekurangan vitamin c b kompleks', 'kekurangan vitamin b']"
+defisiensi vitamin b1,"['defisiensi vit  b1', 'kekurangan vitamin b1', 'defisiensi vit b1', 'defisiensi vitamin b1']"
+defisiensi vitamin b12,"['defisiensi vitamin b12', 'defisiensi vit b12', 'kekurangan vitamin b12']"
+defisiensi vitamin b6,"['defisiensi vit b6', 'defisiensi vitamin b6', 'kekurangan vitamin b6']"
+defisiensi vitamin d,"['kekurangan vitamin d kadar serum 25ohd 30 ngml', 'pasien dengan kekurangan vitamin d', 'kekurangan vitamin d']"
+defisiensi vitamin e,['defisiensi vitamin e']
+defisiensi vitamin neurotropik,['defisiensi vitamin neurotropik']
+defisiensi zinc,['defisiensi zinc']
+dehidrasi,"['dehidrasi sedang', 'dehidrasi ringan', 'dehidrasi', 'dehidrasisedang']"
+demam,"['demam enterik', 'sakit demam', 'demam setelah imunisasi', 'demam akibat pilek', 'demam imunisasi', 'demam', 'demam pasca imunisasi', 'demam sesudah vaksinasi', 'demam paska vaksinasi', 'demam sesudah imunisasi', 'menurunkan demam', 'demam flu', 'demam enterik infeksi pencernaan', 'demam menyertai flu', 'demam forte', 'nyeri demam', 'demam pasca vaksinasi', 'demam vaksinasi', 'panas demam', 'demam menyertai flu paska vaksinasi', 'dmam', 'demam q']"
+demam berdarah,['demam berdarah']
+demam pada anak,"['demam anak anak', 'demam anak', 'demam pada anak', 'demam anak dewasa', 'demam anakanak', 'menurunkan demam anak']"
+demam paratifoid,"['demam paratifoid', 'paratifoid']"
+demam scarlet,['demam scarlet']
+demam tifoid,['demam tifoid']
+dermatitis,"['dermatitis terinfeksi', 'dermatofitosis', 'dermatitis alergi', 'dermatitis terinfeksi bisul', 'eksim', 'dermatitis ekzematous', 'dermatitis akut', 'eksim dermatitis', 'exfoliative dermatitis', 'dermatitis dengan komplikasi infeksi bakterial', 'dermatitis ekzematoid terinfeksi', 'dermatositosis', 'dermatitis komplikasi infeksi bakterial', 'dermatitis', 'dermatitis lainnya', 'dermatitis eksfoliatif', 'pruritik dermatitis', 'dermatitis disertai infeksi']"
+dermatitis atopik,"['dermatitis atopik', 'atopic dermatitis', 'dermatitis kontak maupun atopik', 'dermatitis atopik kontak', 'kulit bersisik psoriasis dermatitis atopik', 'dermatitis atopic', 'ekzema atopik', 'dermatitis kontak atopik', 'dermatitis atopik alergi herediterketurunan']"
+dermatitis kontak,"['contact dermatitis', 'dermatitis kronik', 'dermatitis kontak jenis dermatitis', 'dermatitis kontak', 'dermatitis akut kronik']"
+dermatitis seboroik,"['seboroik', 'demartitis sebaroik ringan', 'seborrhoeic dermatitis', 'dermatitis seboroik']"
+dermatomikosis,['dermatomikosis']
+dermatomiositis,"['dermatomiositis', 'dermatomiosis']"
+dermatosis,"['inflamasi dermatosis', 'dermatosis bakterial', 'dermatosis alergi inflamasi', 'dermatosis', 'dermatosis lain', 'dermatosis bakterial mikotik', 'dermatosis alergi']"
+diabetes,"['diabetes obesitas', 'paresis', 'non insulin dependent diabetes mellitus', 'diabetik gastroparesis akut', 'non insulin dependent diabetic mellitus', 'diabetes', 'diabetes mellitus', 'insulin dependent diabetes mellitus', 'diabetik gastro paresis akut', 'diabetik gastroparesis berulang', 'diabetik', 'diabetes melitus']"
+diabetes tipe 1,"['diabetes melitus tipe  1', 'diabetes tipe 1', 'diabetes tipe - 1']"
+diabetes tipe 2,"['diabetes mellitus tipe 2', 'tipe 2', 'dm tipe 2', 'diabetes melitus tipe 1', 'dm tipe  2', 'diabetes tipe - 2', 'diabetes melitus tipe  2', 'diabetes tipe 2', 'dmt2', 'diabetes tipe 2 terkontrol', 'diabetes melitus tipe 2', 'pasien dm tipe 2', 'diabetes miletus tipe 2']"
+diare,"['mencret', 'diare mencret', 'diare e coli', 'diare non  spesifik', 'diare staph', 'diare kronis', 'diare kuman e coli staph kolopati spesifik non spesifik dewasa anak', 'diare e  coli', 'diare akut non spesifik kronik', 'diare anak', 'diare akut', 'diare akut non spesifik', 'diare akut kronik', 'diare karena kuman e coli dan staph kolopati spesifik dan non spesifik pada dewasa dan anak', 'diare', 'ecoli', 'diare ecoli', 'diare non spesifik', 'diare nonspesifik', 'diare kronik']"
+difteri,"['difteri', 'difteri faringeal']"
+discoid,"['diskoid lupus eritemmantosus', 'diskoid', 'ekzema diskoid', 'dsikoid', 'discoid']"
+disentri,"['paratifoid disentri basiler', 'disentri basil', 'enterokolitis disentri basiler akibat bakteri gram negatif', 'disentri', 'disentri basiler']"
+disfungsi ereksi,['disfungsi ereksi']
+disfungsi ovulasi,"['gangguan ovulasi', 'disovulasi', 'disfungsi ovulasi']"
+dislipidemia,"['dislipidemia', 'dislipidemia campuran tipe iib', 'dislipidemia campuran fredrickson tipe iia iib', 'dislipidemia campuran']"
+dismenore,"['dismenore nyeri saat haid', 'dismenore pasca operasi', 'sakit haid', 'nyeri waktu haid', 'keram saat haid', 'dismenore nyeri haid', 'nyeri haid', 'disenore nyeri haid', 'dysmenorrhea', 'nyeri dismenore', 'nyeri haid primer', 'disumenore', 'haid', 'nyeri haid dysmenorrhea primer', 'dismenore', 'dismenorea primer', 'disenore', 'dysmenorrhea primer', 'nyeri haid dismenore primer', 'nyeri dismenore primer', 'dismenore primer', 'dismenorea', 'dismenor primer']"
+edema,"['edema asites', 'edema akibat chf', 'edema gagal jantung kongestif', 'edema', 'edema inflamasi']"
+ejakulasi dini,['ejakulasi dini']
+eksaserbasi,"['ekarserbasi akut', 'eksaserbasi akut', 'eksasaerbasi akut', 'eksaserbasi bakteri akut', 'eksaserbasi', 'exaserbasi akut']"
+eksema,['ekzema bernanah']
+ekstremitas dingin,"['ekstremitas dingin', 'extremitastangankaki dingin', 'ekstremitas teraba dingin']"
+emboli,"['emboli serebral', 'embolus sistemik', 'emboli', 'embolus paru']"
+emfisema,"['emfisema', 'emfisema gangguan bronkhopulmoner', 'emfisema penyakit paru komplikasi bronkhospasme', 'emfisema dengan bronkitis', 'gangguan bronkhopulmoner', 'emphysema', 'emfisema paru', 'pulmonari emfisema', 'batuk emphysema', 'enfisema', 'ppok emfisema dengan bronkitis bronkitis kronis bronkiektasi']"
+empiema,['emfiema']
+endokarditis,['endokarditis']
+endometriosis,['endometriosis']
+endometritis,['endometritis']
+ensefalitis,['toksoplasmik ensefalitis']
+ensefalopati,"['ensefalopati portal sistemik', 'portal systemic encephalopathy', 'portal sistemik', 'ensefalopati', 'ensefalopati portal  sistemik', 'ensefalopati portalsistemik', 'ensefalopati portal sistemik kronik', 'encephalopathy', 'ensefalopati portal']"
+epididimitis,['epididimitis']
+epididimo-orkitis,"['epididimo-orkitis', 'epididimo orkitis']"
+epididimoorkitis,['epididimoorkitis']
+episkleritis,"['episcleritis', 'episklerit', 'episkleritis']"
+eritritis,['eritritis']
+erosi kornea,['erosi kornea']
+esofagitis,"['peptik esofagitis', 'eosifagitis', 'esophagitis', 'esofagitis', 'peptik eosifagitis']"
+faringitis,"['faringitis tonsilitis streptokokus', 'faringitis', 'faringitis tonsilitis', 'pharingitis']"
+fatigue,['fatig lelah']
+fistula ani,"['fistula ani', 'fistula']"
+fisura ani,"['fisura anal', 'fisura anal superfisial', 'fisura ani']"
+flek,"['flek kanker paru paru', 'flek', 'flek hitam']"
+flu,"['influenza a', 'virus influenza b', 'h influenza', 'infeksi h influenzae', 'flu pilek', 'fluinfluensa', 'flu', 'influensa demam', 'virus influenza a', 'flu seperti demam', 'virus influenza c', 'flu pada anak dan orang dewasa', 'virus influenza tipe a b', 'influensa', 'infuenza', 'infeksi virus influenza tipe b', 'hinfluenzae', 'flu influensa', 'virus influenza tipe a', 'influenza tipe b', 'influenza dewasa', 'virus influenza tipe a atau b', 'gejala flu', 'influenza anak', 'infeksi virus influenza tipe a', 'flu demam', 'flu disertai batuk kering', 'h influenzae', 'influenza', 'demam influensa', 'flu anak orang dewasa', 'influenza tipe a']"
+flu burung,['flu burung']
+folikulitis,"['folikulitis superfisialis', 'folikulitis barbae', 'folikulitis', 'folikulitis superfisial']"
+furunculosis,"['furunculosis', 'furunkulosis']"
+gagal ginjal akut,"['gagal ginjal', 'insufisiensi ginjal', 'gagal ginjal akut']"
+gagal ginjal kronis,"['gangguan ginjal khronik', 'gagal ginjal khronis', 'insufisiensi ginjal khronik', 'insufisiensi ginjal kronik', 'gagal ginjal akut kronik', 'gagal ginjal kronik', 'pasien gagal ginjal khronik']"
+gagal jantung,"['gagal jantung', 'masalah jantung', 'gagal jantung kronik', 'gagal jantung kongesti', 'gagal jantung kongestif', 'gangguan jantung', 'infeksi jantung']"
+gangguan ginjal,"['gangguan ginjal', 'gangguan ginjal prostat']"
+gangguan hati,['gangguan hati']
+gangguan kehamilan,"['kehamilan', 'gangguan kehamilan', 'komplikasi kehamilan']"
+gangguan keseimbangan,"['gangguan keseimbangan', 'gangguan keseimbangan hormonal']"
+gangguan kulit,['gangguan kulit']
+gangguan memori,"['gangguan memori tidur', 'gangguan memori']"
+gangguan metabolik,"['gangguan vaskulo metabolik perifer akut khronik', 'gangguan vaskulo metabolik serebral akut khronik', 'gangguan metabolisme', 'gangguan metabolik', 'gangguan metabolisme otot jantung']"
+gangguan muskuloskeletal,"['gangguan musculoskeletal akut gout akut', 'gangguan muskulosketal akut', 'gangguan musculoskeletal akut']"
+gangguan panik,['gangguan panik']
+gangguan pencernaan,"['gangguan pencernaan fungsional', 'gangguan pada pencernaan', 'dispepsia gangguan pencernaan neurogenik', 'gangguan pencernaan', 'gangguan pencernaan neurogenik', 'gangguan lambung', 'gangguan saluran cerna']"
+gangguan pendengaran,['gangguan pendengaran']
+gangguan peradangan okular,['gangguan peradangan okular']
+gangguan pernapasan,"['gangguan saluran napa', 'gangguan saluran pernafasan kronik', 'gangguan saluran nafas kronis', 'sekretolitik gangguan saluran napa akut khronik', 'gangguan saluran nafas khronik', 'gangguan saluran pernapasan akut kronik', 'gangguan pernafasan akibat rokok', 'gangguan saluran pernafasan', 'gangguan saluran pernapasan', 'gangguan saluran napa akut khronik', 'gangguan pernapasan', 'gangguan saluran pernapasan alergi dermatologi serta gangguan inflamasi ocular', 'gangguan saluran pernafasan akut', 'gangguan pernafasan', 'gangguan saluran pernafasan disebabkan dahak mukus', 'gangguan saluran nafas akut', 'gangguan saluran pernafasan akut kronik', 'gangguan saluran nafas akut kronis', 'gangguan pernapasan akut kronis', 'gangguan di saluran pernafasan']"
+gangguan prostat,['gangguan prostat']
+gangguan saluran gastrointestinal,"['gangguan gi mual', 'gi', 'gangguan gi']"
+gangguan saluran kemih,"['gangguan saluran kemih bagian bawah', 'gangguan saluran kemih bagian bawah berhubungan dengan hiperplasia prostat jinak']"
+gangguan saraf,"['gangguan saraf', 'gangguan saraf perifer']"
+gangguan sirkulasi,"['gangguan sirkulasi perifer', 'gangguan sirkulasi']"
+gangguan spastik,"['gangguan spastik', 'gangguan spastik saluran genital wanita', 'gangguan spastik saluran kemih', 'gangguan spastik saluran cerna', 'gangguan spastik saluran empedu']"
+gangguan tidur,"['sulit tidur', 'gangguan irama tidur', 'susah tidur', 'gangguan sulit tidur', 'gangguan tidur', 'gangguan ritme tidur']"
+gangguan tropik,"['gangguan trofik', 'gangguan tropik']"
+gangguan vestibular,"['gangguan vestibular', 'gangguan vaskular vestibular']"
+gangrene,"['ganggren', 'gangrene']"
+gastritis,"['ulkus gastritis', 'antasida gastritis', 'gastritis', 'gastritis kronik', 'gastritis kronik sd 8 minggu', 'penuh lambung gastritis', 'gastritis tukak lambung tukak usus dua belas jari', 'gastritis alkoholisme khronik', 'penuh lambung', 'gastristis', 'gastritis kronis']"
+gastroenteritis,"['gastroenteritis anak', 'gastroenteritis', 'gastroenteritis bayi']"
+gastroparesis,"['gastroparesis akut dan berulang', 'gastroparesis diabetikum akut rekuren', 'gastroparesis', 'gastroparesis berulang', 'gastroparesis diabetikum', 'gastroparesis diabetikum akut berulang', 'gastroparesis akut berulang', 'gastroparesis akut']"
+gatal,"['gatal', 'gatalgatal', 'gatal gatal', 'urtikaria gatal gatal', 'gatal jamur kulit', 'sakit gigi gatal gatal', 'gatal2', 'gatal kulit', 'gatalgatal disebabkan oleh infeksi jamur', 'inflamasi gatal gatal']"
+gerd,"['gangguan refluks non erosive', 'esofagitis berat', 'refluks esofagitis erosif', 'rasa panas ulu hatikerongkongan akibat reflux esofagitis', 'reflux', 'esofagitis erosifulseratif', 'esofangeal', 'esofageal', 'reflux esofagitis', 'refluks esofagitis erosif atau ulseratif', 'nonerosive reflux disease nerd', 'reflux esophagitis sedang dan berat', 'refluks esofagitis erosifulseratif', 'refluks esofagitis', 'inflamasi esofagus', 'refluks', 'reflux gastroesofagitis', 'refluks esofagitis erosif ulseratif', 'gastroesophageal reflux disease gerd', 'refluks esofagitis berat', 'refluks gastroesofagus erosif', 'gerd', 'nonerosive reflux disease', 'refluks esofagus', 'simtomatik gerd', 'reflucks esofagitis', 'refluks esophagitis', 'reflucks', 'gastroesophageal reflux disease', 'reflux esofagitis erosifulseratif', 'inflamasi esofagus refluks esofagus', 'esofagitis erosif', 'refluks gastroesofagus yang erosif', 'reflux esophagitis sedang berat', 'refluks gastroesofagitis', 'refluks gastroesofagus']"
+giardiasis,"['giardia lambliasis', 'giardiasis', 'giardia']"
+gigi berlubang,['gigi berlubang']
+gigitan serangga,"['gatalgatal akibat gigitan serangga dan nyamuk', 'gatal gigitan serangga', 'gatal  gatal gigit serangga', 'gatal akibat gigitan nyamukserangga', 'gatalgatal karena gigitan serangga', 'gatalgatal akibat gigitan serangganyamuk', 'digigit serangga', 'gigitan nyamuk', 'gigitan nyamukserangga', 'gatalgatal akibat digigit serangga', 'gatal gigitan serangga dan nyamuk', 'gigitan nyamuk  serangga', 'gatalgatal gigitan serangga nyamuk', 'gatal akibat digigit serangga', 'gatal karena gigitan serangga', 'serangga', 'gatalgatal karena gigitan serangga atau nyamuk', 'gatal akibat gigitan seranggga', 'gigitan nyamuk serangga', 'gatalgatal akibat gigitan serangga atau nyamuk', 'gigitan nyamuk bahkan nyamuk demam berdarah', 'gatalgatal akibat gigitan serangga nyamuk', 'gigitan nyamuk/serangga', 'gatal biang keringet udara panas gigitan serangga', 'gatal karena biang keringet udara panas gigitan serangga', 'gigitan serangga', 'gatal gigitan serangga nyamuk', 'gatalgatal akibat gigitan serangga', 'gatal akibat gigitan serangga', 'gatalgatal gigitan serangga', 'gatal gatal gigit serangga']"
+glaukoma,"['glaukoma simplek kronis', 'glaukoma sudut terbuka kronis', 'glaukoma sudut tertutup', 'glaukoma sudut terbuka khronis', 'glaukoma', 'aphakic glukoma', 'glaukoma sudut  terbuka', 'glaukoma sudut  terbuka hipertensi okular', 'glaukoma sudut terbuka', 'glaukoma sudut terbuka hipertensi okular', 'glaukoma sudut  terbuka khronis', 'glaukoma sekunder', 'glukoma sudut terbuka kronis', 'glaukoma sudutterbuka', 'glukoma']"
+gonore,"['eritritis pielonefritis gonore', 'gonorhea tidak terkomplikasi infeksi kulit jaringan lunak', 'n gonorrhoae', 'gonore tidak terkomplikasi', 'uretritis gonore', 'gonorrhea', 'go infeksi', 'gonorrhoeae', 'gonorrhoea acute tidak terkomplikasi', 'gonorrhoea tidak terkomplikasi', 'gonorrhea komplikasi', 'neisseria gonorrhoea', 'gogonorea tanpa komplikasi', 'gonore', 'gonorhea yang tidak terkomplikasi infeksi kulit dan jaringan lunak', 'gonore komplikasi', 'gonorrhoea', 'uretritis non gonore', 'gonorea', 'gonorea tanpa komplikasi', 'go', 'gonorrhoea akut tidak terkomplikasi', 'uretritis servisitis gonore', 'uretritis gonore servisitis komplikasi', 'n gonorrhoea', 'go akut', 'gonore akut']"
+granuloma inguinale,['granuloma inguinale']
+gusi bengkak,['gusi bengkak']
+hematoma,['hematoma']
+hepatitis,"['profilaksis infeksi hepatitis', 'hepatitis virus', 'hepatitis', 'hepatitis alkoholik', 'virus hepatitis b']"
+hepatitis b,"['infeksi virus hepatitis b kronik', 'virus hepatitis b kronik', 'hepatitis b kronik']"
+hernia,"['hernia', 'hernia peptik']"
+hernia hiatus,"['hernia hiatus', 'hiatus hernia', 'hiatus', 'hiatus hernis']"
+hernia nukleus pulposus,['hernia neukleus pulposus']
+herpes,"['virus herpes', 'infeksi rekuren herpes labialis', 'herpes labialis']"
+herpes genital (herpes simplex),"['infeksi herpes simplex', 'infeksi virus herpes simpleks kulit selaput lendir', 'supresi kekambuhan infeksi herpes simplex', 'herpes genital awal rekuren', 'herpes ginital', 'infeksi rekuren herpes genital', 'infeksi herpes simplex pada kulit', 'herpes genital awal', 'virus herpes simpleks', 'herpes simpleks kulit membran mukosa', 'herpes genital rekuren', 'pencegahan infeksi herpes simplex', 'herpes simplek pada kulit', 'infeksi awal herpes genital', 'herpes simplek kulit', 'infeksi herpes simpleks kulit', 'herpes genital berulang', 'herpes simplex dan zoster', 'herpes simpleks', 'infeksi virus herpes simplex kulit membran mukosa', 'lichen simplek', 'herpes simplex tipe 1  2', 'infeksi herpes simplex kulit', 'herpes simplex zoster', 'infeksi herpes simpleks pada kulit', 'rekuren', 'herpes genitalis', 'herpes simplex tipe 1 2', 'herpes genital', 'herpes simplex tipe 2', 'herpes genital awal dan rekuren', 'herpes ginital awal', 'herpes simplex', 'infeksi virus herpes simpleks pada kulit dan selaput lendir', 'infeksi virus herpes simpleks', 'herpes simplek', 'infeksi awal herpes labialis', 'infeksi virus herpes simpleks kulit membran mukosa', 'alergi kulit selaput lendir', 'herpes genital awal  rekuren', 'herpes simplex tipe 1']"
+herpes zoster,"['infeksi virus herpes zoster', 'zoster', 'herpes zoster']"
+hidung tersumbat,"['hidung tersumbat pilek', 'tenggorokan hidung tersumbat', 'hidung tersumbat/gatal', 'gatal hidung tenggorokan', 'gatal hidung', 'hidung berair', 'hidung berair tersumbat', 'hidung tersumbat', 'hidung tersumbat bersinbersin', 'hidung tersumbatgatal', 'pilek gatal hidung', 'tersumbat']"
+hiperasiditas,[]
+hiperasiditas gastrointestinal,"['hiperasiditas lambung', 'hiperasiditas gastrointestinal', 'hiperasiditas pencernaan', 'hiperasiditas lambung saluran cerna']"
+hiperemesis gravidarum,"['hiperemesis gravidarum', 'hiperemesis gravidarum muntahmuntah 3 kehamilan', 'emesis gravidarum']"
+hiperglikemia,['hiperglikemia']
+hiperkalemia,['hiperkalemia']
+hiperkolesterolemia,"['hiperkolesterol primer tipe iia', 'hiperkolesterolemia primer tipe iia', 'hiperko - lesterolemia', 'hiperkolesterolemia hip', 'hiperkoleterolemia primer', 'hiperkolesterolemia primer tipe', 'heterozigot familial', 'hiperkolesterolemia familial', 'hiperkolesterol primer', 'hiperkolsterolemia', 'hiperko lesterolemia', 'hiperkolesterolemia tipe iia', 'hiperkolesterolemia familial heterozigot', 'hiperkolesterolemia familial heterozigot homozigot', 'hiperkolesterolemia primer', 'hiperkolesterolemia']"
+hiperlipidemia,"['hiperlipidemia kombinasi tipe iib ii', 'hiperlipidemia', 'hiperlipidemia kombinasi campuran', 'hiperlipidemia campuran', 'hiperlipidaemia']"
+hiperparatiroidisme,['hiperparatiroidisme']
+hiperpigmentasi,"['hiperpigmentasi melanin area kulit tidak', 'hiperpigmentasi', 'hiperpigmentasi melamin', 'hiperpigmentasi kulit']"
+hipersekresi mukus,['hipersekresi mukus']
+hipertensi,"['hipertensi nefrogenik', 'hipertensi dewasa', 'hipertensi berat', 'hipertensi esensial ringan', 'hipertensi renovaskuler', 'hipertensi essensial ringan', 'hipertensi ringan', 'hipertensi essensial', 'hipertensi maligna', 'hipertensi esensial', 'hipertensi', 'darah tinggi', 'hipertensi esensial renovaskular', 'tekanan tinggi pembuluh darah arteri paruparu']"
+hipertensi okuler,"['hipertensi mata', 'hipertensi okular tidak responsif', 'hipertensi okular responsif', 'hipertensi okular', 'hipertensi okuler']"
+hipertensi pulmonal,['hipertensi pulmonal']
+hiperurisemia,"['hiperurisemia sekunder', 'hiperurisemia', 'hiperuresemia', 'hiperurisemia primer']"
+hipoalbuminemia,['hipoalbuminemia']
+hipokalemia,['hipokalemia']
+hipomagnesemia,"['hipomagnesemia', 'hipomagnesia']"
+hipoparatiroid,['hipoparatiroidisme']
+hipotensi,"['hipotensi', 'hipotensi okuler']"
+hirsutisme,"['hirsutisme', 'hirsutism']"
+histoplasmosis,"['hiptoplasmosis', 'histoplasmosis']"
+iktiosis,"['iktiosis kulit kering', 'ikhtiosis', 'iktiosis']"
+ileus paralitik,['ileus paralitik']
+impetigo,"['impetigo', 'impetigo furunculosis', 'impetigo kontagiosum', 'impetigo go komplikasi', 'impetigo kontagiosa']"
+impotensi,"['impotensi', 'impoten', 'impoten pria']"
+imunisasi,['imunisasi']
+infark,"['infark', 'infark jantung']"
+infeksi,"['infeksi', 'infeksi lain', 'infeksi berat terkomplikasi', 'infeksi ringan', 'infeksi berat', 'infeksi serius', 'infkesi', 'infeksi lain disebabkan kuman gram sensitif', 'infeski', 'infeksi2', 'infeksi eksternal', 'infeksi akut', 'infeksi lainnya', 'infeksi ringan sedang', 'infeksi kandida mukosa lainnya', 'infeksi sedang']"
+infeksi bakteri,"['infeksi bakteri fungi mulut tenggorokan', 'infeksi oleh bakteri', 'infeksi gram positif', 'infeksi gram positif serius berat', 'infeksi berat disebabkan bakteri gram', 'gram negatif', 'infeksi bakteri anaerob', 'bakterial', 'bakteri gram positif', 'infeksi disebabkan oleh bakteri', 'bakteriuria asimptomatik pada masa hamil', 'bakteri gr  penyebab bakteremia', 'bakteri anaerob', 'infeksi bakteri dan fungi pada mulut dan tenggorokan', 'infeksi mikobakteri', 'infeksi serius bakteri anaerob', 'infeksi gr serius berat', 'bakteri', 'infeksi bakteri yang rentan', 'infeksi disebabkan bakteri anaerob', 'infeksi serius akibat bakteri anaerob', 'infeksi bakteri sekunder bronkitis akut', 'infeksi serius disebabkan bakteri sensitif', 'infeksi bakteri jamur fungi', 'infeksi bakteri dan jamur fungi', 'infeksi staph', 'infeksi bakteri', 'infeksi gram positif gram negatif', 'infeksi sekunder bakteri gram positif', 'infeksi gram', 'infeksi bakteri rentan', 'bakteri gram negatif', 'infeksi bakteri lipatan kulit', 'infeksi berat disebabkan kuman gr gr', 'bakteri gr', 'bakteriuria asimptomatik masa hamil', 'infeksi bakteri anaerob sensitif', 'infeksi bakterial sekunder', 'infeksi akibat bakteri saluran pernapasan', 'infeksi rentan berat', 'eksaserbasi bakterial akut', 'infeksi bakteri gram positif', 'infeksi bakterial mata', 'bakteri gr penyebab bakteremia', 'eritis bakterial', 'infeksi kandungan eritis bakterial', 'infeksi bakteri sekunder', 'infeksi akibat chlamydia trachomatis', 'infeksi bakteri gr gr sal nafas', 'infeksi mikobakterial tertentu', 'infeksi bakteri mycobacterium tuberculosis tbc', 'anaerob', 'bakteri endocarditis', 'infeksi anaerob', 'disebabkan oleh jamur bakteri mulut', 'infeksi gram positif negatif', 'staph', 'infeksi bakteri pada lipatan kulit', 'infeksi akibat bakteri', 'infeksi bakteri gr gr  sal nafas', 'infeksi bakteri anaerob serius', 'bakteri gram negativ', 'infeksi bakteri sensitif levofloxacin sinusitis', 'infeksi bakteri sensitif moxifloxacin', 'bakterial akut', 'infeksi akibat bakteri pencernaan', 'infeksi gram negatif', 'infeksi mikobakterial', 'infeksi disebabkan mikroorganisme gram positif gram negatif organisme memproduksi penisillinase', 'infeksi disebabkan oleh mikroorganisme gram positif gram negatif sensitif terhadap tetracyclin', 'infeksi akibat bakteri saluran kemih', 'infeksi serius disebabkan bakteri anaerob sensitif']"
+infeksi genital,['infeksi genital']
+infeksi gigi,['infeksi gigi']
+infeksi ginjal,"['infeksi ginjal', 'infeksi pada ginjal', 'pielonefritis akut', 'pielonefritis infeksi ginjal akut']"
+infeksi helicobacter pylori,['infeksi bakteri helicobacter pylorus']
+infeksi jamur,"['infeksi jamur kandidiasis', 'infeksi jamur', 'infeksi jamur tubuh', 'infeksi fungi', 'infesi jamur', 'jamur', 'infeksi jamur ring  worm kulit', 'infeksi jamur pada kulit dengan inflamasiperadangan', 'infeksi jamur fungi', 'infeksi akibat jamur', 'infeksi jamur sistemik', 'infeksi jamur ringworm kulit rambut kuku disebabkan microsporum epidermophyton trichophyton', 'infeksi jamur kulit kulit kepala kuku', 'infeksi jamur pada kulit kulit kepala dan kuku', 'infeksi jamur ringworm kulit  rambut kuku disebabkan microsporum  epidermophyton trichophyton', 'infeksi jamur kulit dengan inflamasiperadangan', 'infeksi jamur ring worm kulit', 'fungi', 'profilaksis infeksi jamur']"
+infeksi jamur kuku,"['infeksi jamur kuku', 'infeksi jamur pada kuku']"
+infeksi jamur kulit,"['infeksi jamur kulit', 'infeksi dermatofit', 'infeksi kuku kulit dermatofita', 'infeksi di kulit  jaringan lunak', 'dermatofita', 'infeksi jamur pada kulit', 'infeksi jamur kulit kepala', 'infeksi dermatofita kuku kaki', 'infeksi dermatofita kulit kuku tangan', 'infeksi jamur lipatan kulit', 'infeksi jamur pada kulit dan kuku', 'infeksi jamur kulit kuku', 'dermatofit']"
+infeksi jamur rambut,['infeksi jamur rambut']
+infeksi kuku,['infeksi kuku']
+infeksi kulit,"['infeksi kulit struktur kulit ringan terkomplikasi', 'infeksi kulit lain', 'infeksi kulit membran mukosa lokal', 'infeksi kulit pioderma', 'infeksi sekunder kulit', 'kulit jar lunak infeksi serius', 'infeksi kulit primer maupun sekunder', 'infeksi kulit primer dan sekunder', 'infeksi jar lunak', 'infeksi kulit struktur kulit tak terkomplikasi', 'infeksi basah kering kulit bayi', 'infeksi kulit struktur kulit', 'pioderma dermatitis infeksi sekunder', 'infeksi sekunder luka terbuka', 'infeksi kulit  jaringan lunak', 'infeksi kulit termasuk herpes genital rekuren dan herpes labialis', 'infeksi kulit jaringan lunak', 'infeksi kulit struktur kulit tidak terkomplikasi', 'infeksi kulit lain karena organisme yang peka terhadap kloramfenikol', 'infeksi kulit struktur kulit komplikasi', 'infeksi sekunder pyoderma', 'infeksi kulit struktur kulit terkomplikasi', 'infeksi kulit kepala demartitis sebaroik ringan', 'infeksi kulit mukosa', 'pioderma gangrenosa', 'struktur kulit infeksi', 'infeksi kulit dan membran mukosa luar', 'infeksi kulit jar lunak', 'infeksi kulit dan jaringan lunak', 'infeksi kulit primer sekunder', 'infeksi kulit dan struktur kulit', 'infeksi kulit dan membran mukosa lokal', 'infeksi kulit strukturnya tanpa komplikasi', 'infeksi kulit dan struktur kulit tak terkomplikasi', 'infeksi jaringan lunak', 'infeksi serius jaringan lunak kulit', 'infeksi kulit jar lunak terkomplikasi', 'kulit infeksi', 'infeksi kulit primer', 'infeksi kulit termasuk herpes genital rekuren herpes labialis', 'infeksi kulit lainnya', 'infeksi kulit', 'mikosis kulit lain', 'infeksi kuku kulit', 'infeksi pada kulit', 'pioderma', 'infeksi kulit kepala', 'infeksi mikotik kulit', 'infeksi kulit termasuk herpes genital rekuren', 'infeksi primer sekunder', 'lesi kulit traumatik infeksi sekunder', 'infeksi kulit membran mukosa luar', 'terapi infeksi kulit', 'infeksi kulit primer akut', 'infeksi kulit lain organisme peka terhadap kloramfenikol', 'infeksi kulit dan jar lunak', 'infeksi jaringan lunak kulit', 'infeksi kulit dan jaringan lunak tanpa komplikasi', 'infeksi kulit dan strukturnya tanpa komplikasi', 'infeksi jaringan', 'lesi kulit dengan infeksi primer sekunder oleh bakteri streptokokus', 'infeksi kulit jaringan lunak tanpa komplikasi', 'infeksi struktur kulit', 'pioderma primer sekunder', 'pyoderma', 'infeksi kulit jelunak', 'infeksi kulit jaringan luka', 'infeksi kulit sekunder']"
+infeksi lambung,['infeksi lambung']
+infeksi luka operasi,"['luka dengan infeksi', 'luka paska operasi', 'infeksi luka operasi', 'infeksi pasca operasi', 'infeksi sesudah operasi', 'infeksi operasi', 'infeksi operasi esofangeal', 'luka terinfeksi', 'infeksi luka']"
+infeksi mata,"['infeksi eksternal bola mata struktur terkait', 'infeksi mata disebabkan oleh bakteri gram negatif', 'infeksi okular', 'infeksi eksternal mata', 'inflamasi bola mata eksternal anterior', 'infeksi mata eksternal bola mata', 'infeksi mata okular', 'inflamasi mata', 'infeksi mata', 'infeksi pada mata']"
+infeksi mulut,"['infeksi jamur fungi rongga mulut tenggorokan', 'infeksi mulut', 'infeksi rongga mulut', 'infeksi jamur dalam rongga mulut', 'infeksi jamur rongga mulut']"
+infeksi paru-paru,"['infeksi paru', 'infeksi paru-paru']"
+infeksi perut,['infeksi perut']
+infeksi protozoa,['infeksi protozoa']
+infeksi rahim,['infeksi rahim']
+infeksi salmonella,"['infeksi salmonella', 'infeksi disebabkan salmonella sp', 'infeksi disebabkan oleh salmonella sp', 'infeksi salmonele', 'infeksi salmonella spp', 'infeksi salmonella sp sp', 'salmonelosis infeksi urogenital', 'salmonella', 'infeksi disebabkan oleh salmonella', 'salmonellosis', 'infeksi yang disebabkan oleh salmonella', 'salmonella sp', 'infeksi disebabkan salmonella', 'salmonelosis  infeksi urogenital', 'infeksi yang disebabkan oleh salmonella sp', 'salmonelosis', 'infeksi salmonella sp']"
+infeksi saluran kelamin,"['kelamin infeksi', 'infeksi kelamin', 'infeksi sal kelamin']"
+infeksi saluran kemih,"['infeksi saluran kelamin', 'infeksi traktus genitourinary', 'infeksi saluran gl', 'komplikasi infeksi saluran kemih', 'infeksi saluram urinarius', 'infeksi saluran kemih komplikasi', 'infeksi urogenital', 'complicated urinary tract infection', 'infeksi bakteri saluran kemih', 'infeksi traktus urinarius', 'isk', 'isk terkomplikasi pielonefritis akut', 'infeksi saluran kemih dengan komplikasi', 'infeksi saluran urogenital', 'isk komplikasi', 'infeksi saluran kemih akut komplikasi', 'saluran kemih kelamin infeksi kulit jaringan lunak', 'infeksi pada saluran kemih', 'infeksi saluran kemih tidak terkomplikasi disebabkan escherichia coli proteus mirabilis', 'infeksi sal urogenital kemih kelamin', 'infeksi saluran kemih akut', 'isk terkomlikasi', 'infeksi saluran urin', 'infeksi saluran kemih dan kelamin', 'infeksi saluran kemih tanpa komplikasi', 'infeksi saluran genitourinary', 'infeksi saluran kemih  kelamin', 'infeksi saluran kemih kecuali prostatitis', 'infeksi akut non komplikata saluran kemih bagian bawah', 'kelamin infeksi kulit jaringan lunak', 'infeksi sal kemih', 'infeksi saluran kemih', 'infeksi traktus urinarius pielonefritis', 'infeksi saluran kemih kompleks complicated urinary tract infection', 'saluran kemih organ genital wanita', 'infeksi saluran kemih kelamin', 'infeksi di saluran kemih', 'infeksi saluran kemih kompleks', 'infeksi saluran urinarius', 'saluran kemih kelamin infeksi', 'infeksi saluran genitourinari', 'infeksi saluran genitourinaria', 'infeksi saluran kemih bagian bawah', 'isk terkomplikasi', 'infeksi sal gl', 'infeksi saluran kencing']"
+infeksi saluran pencernaan,"['infeksi saluran cerna', 'infeksi sal cerna', 'infeksi gut', 'infeksi saluran pencernaan', 'infeksi pernafasan saluran cerna', 'proteus mirabilisinfeksi saluran pencernaan', 'infeksi intraabdomen dengan komplikasi', 'sal cerna tifoid paratifoid', 'infeksi pencernaan', 'infeksi intraabdomen komplikasi', 'infeksi saluran cerna tifoid paratifoid', 'infeksi intraabdomen', 'lesi di saluran pencernaan', 'infeksi sistem pencernaan', 'lesi saluran pencernaan']"
+infeksi saluran pernapasan,"['infeksi saluran napas atas  bawah', 'infeksi saluran nafas tht', 'infeksi sal nafas', 'infeksi saluran nafas akut khronik', 'infeksi saluran napa akut', 'infeksi saluran nafas bawah atas', 'infeksi saluran napas atas dan bawah', 'infeksi saluran pencernaan saluran kemih', 'infeksi serius disebabkan bakteri sensitif infeksi saluran nafas bawah', 'infeksi saluran pernfasan bagian atas bawah', 'infeksi saluran nafas bawah', 'infeksi saluran nafas bagian atas bawah', 'infeksi saluran nafas bagian atas dan bawah', 'infeksi berat sal nafas', 'infeksi saluran napa akut kronik', 'infeksi serius saluran nafas bag bwh', 'infeksi saluran pernapasan bagian atas', 'infeksi saluran nafas dan bawah', 'infeksi saluran pernafasan bagian bawah', 'infeksi saluran nafas bawah dan atas', 'infeksi sal nafas atas', 'infeksi saluran nafas akut dan khronik', 'saluran nafas akut kronik', 'infeksi saluran nafas dan tht', 'infeksi sal nafas bakteri gr', 'infeksi saluran pernapasan bawah', 'infeksi saluran napas bawah', 'infeksi ringan  sedang sal nafas bawah dan atas kulit dan struktur kulit phs', 'infeksi sal nafas atas dan bawah', 'infeksi saluran pernapasan atas bawah', 'infeksi tht', 'infeksi saluran pernapasan', 'tht', 'infeksi saluran nafas khronik', 'infeksi sal nafas atas bawah', 'infeksi saluran pernapasan atas', 'infeksi sal nafas kulit', 'infeksi virus sal napa', 'infeksi saluran napas atas', 'infeksi saluran pernafasan', 'infeksi ringan saluran nafas', 'infeksi saluran pernafasan bagian atas  bawah', 'infeksi saluran nafas atas bawah', 'infeksi serius saluran nafas bag bawah', 'infeksi sal nafas bawah', 'infeksi bakteri saluran pernafasan', 'saluran napas akut', 'infeksi sal pernafasan atas', 'infeksi sal nafas lainnya', 'infeksi saluran napas', 'infeksi saluran nafas akut dan kronik', 'infeksi sal napa', 'infeksi pernafasan', 'infeksi saluran pernafasan bagian atas', 'infeksi saluran nafas kecuali pneumonia strep hemolitikus', 'infeksi saluran nafas kulit dan jaringan lunak', 'infeksi saluran pernafasan bagian atas bawah', 'infeksi saluran nafas', 'infeksi ringan sedang sal nafas bawah atas kulit struktur kulit phs', 'infeksi saluran pernapasan atas  bawah', 'infeksi saluran nafas akut kronik', 'saluran nafas atas', 'infeksi saluran pernapasan atas dan bawah', 'sal nafas kecuali pneumonia strep', 'infeksi saluran nafas atas dan bawah', 'infeksi serius saluran nafas', 'infeksi saluran napa', 'infeksi saluran nafas kulit jaringan lunak', 'infeksi saluran nafas akut', 'infeksi saluran nafas atas', 'infeksi sal', 'infeksi saluran pernafasan bawah', 'infeksi saluran nafas kronik', 'infeksi saluran napas atas bawah']"
+infeksi sekunder,"['komplikasi infeksi sekunder', 'infeksi sekunder']"
+infeksi selaput lendir mulut,['infeksi selaput lendir mulut']
+infeksi sendi,['infeksi sendi']
+infeksi staphylococcus,"['infeksi disebabkan staphylococcus', 'staphylococci', 'luka terinfeksi disebabkan oleh staphylococcus aureus', 'lesi kulit dengan infeksi primer sekunder oleh bakteri stafilokokus', 'staphyloccocus aureus', 'staphylococcus', 'staphylococcusa aureus', 'staphylococcus aureus', 'infeksi serius staph', 'bakteri staph', 'infeksi staphylococcus']"
+infeksi streptococcus,"['streptococcus pyogenes', 'hemolitikus', 'streptococcus epidermidis', 'streptococcus viridans', 'strep hemolitikus', 'strep', 'infeksi streptococcus', 's pyogenes', 'streptococci', 'streptococcus hemolyticus', 'streptococcus faecalis', 'streptococus', 'streptococcus', 'infeksi strep']"
+infeksi telinga,"['infeksi telinga', 'infeksi telinga hidung tenggorokan', 'peradangan akibat infeksi telinga', 'inteksi tulang', 'infeksi rongga telinga']"
+infeksi tulang,"['infeksi tulang sendi', 'infeksi tulang', 'infeksi tulang persendian']"
+infeksi usus,"['infeksi usus', 'infeksi traktus gastrointestinal']"
+infeksi vagina,"['infeksi vagina campuran', 'infeksi vagina disebabkan trichomonas vaginalis', 'infeksi vagina', 'infeksi vagina disebabkan candida albicans', 'candida albicans']"
+infeksi virus,['infeksi virus']
+inflamasi,"['keadaan inflamasi', 'inflamasi degeneratif', 'inflamasi']"
+inflamasi kulit,['inflamasi kulit']
+inflamasi okular,"['inflamasi okular', 'inflamasi peradangan okular']"
+inflamasi pasca operasi,"['inflamasi paska operasi katarak', 'radang pasca operasi katarak', 'inflamasi pasca operasi', 'inflamasi paska operasi']"
+inkontinensia tinja,['inkontinensia tinja']
+inkontinensia urine,['inkontinensia urin']
+insomnia,['insomnia']
+intertrigo,['intertrigo']
+intoleransi makanan,"['intoleransi terhadap makanan', 'intoleransi terhadap makanan salah cerna']"
+intoleransi obat,"['intoleransi obat', 'intoleransi terhadap obat sitotoksik']"
+intra abdominal,['intra abdominal']
+iritasi,"['iriasi', 'iritasi mata ringan', 'iritasi ringan', 'iriasi ringan', 'iritasi', 'teriritasi lingkungan', 'iritasi ringan mata']"
+iritasi hidung,"['iritasi hidung ringan', 'iritasi hidung']"
+iritasi mata,"['iritasi mata', 'iritasi minor mata']"
+iritasi mulut,"['iritasi mulut', 'iritasi ringan mulut']"
+iritasi saluran pernapasan,"['iritasi membran mukosa saluran nafas', 'iritasi saluran nafas lainnya', 'iritasi membran mukosa']"
+iritasi usus,['iritasi usus']
+iskemia,"['iskemia miokardial', 'iskemia', 'iskemia ulkus', 'iskemia miokard']"
+jamur kulit,"['jamur pada kulit', 'jamur lipatan kulit', 'jamur kulit']"
+jerawat,"['aknejerawat berisi nanah', 'jerawat berisi nanah', 'jerawat berat', 'jerawat parah', 'jerawatakne vulgaris', 'jerawat bisul', 'jerawat', 'infeksi jerawat']"
+jerawat batu,['jerawat batu']
+kandidiasis kulit,"['kandidiasis kulit', 'kandidasis kutan']"
+kandidiasis mukosal,"['kandidiasis mukokutan kulit mukosa khronik', 'kandidiasis mukokutan kulit  mukosa khronik', 'kandidiasis mukokutan kronis', 'kandidiasis mukokutan khronis', 'kandidiasis mukokutan kulit mukosa khronik tidak responsif nistatin obat kandidiasis vaginal', 'kandidiasis mukosal', 'kandidiasi mukosa', 'kandidiasis mukokutan kulit  mukosa khronik tidak responsif nistatin obat kandidiasis vaginal']"
+kandidiasis oral,"['kandidiasis rongga mulut', 'infeksi orofaringeal', 'kandidiasis orofaringe', 'kandidiasis mulut dermatomikosis', 'kandidiasis oral', 'orofaringeal', 'kandidiasis mulut', 'kandidiasis orofaringeal', 'kandidiasis oral infeksi jamur rongga mulut', 'atopik oral kandidiasis', 'kandidiasis orofaringeal esofageal', 'kandidosis oral', 'kandidiasis orofaringeal  esofageal']"
+kandidiasis vaginalis,"['kandidiasis vaginal', 'kandidiasis vagina', 'kandidosis vaginal', 'kandidiasis vulvovaginal']"
+kanker,"['kanker', 'nyeri kanker', 'pasien kanker', 'sel kanker', 'kanker emetogenik', 'penyakit kanker']"
+kanker darah,['kanker darah']
+kanker hati,['kanker hati']
+kanker kandung kemih,['kanker kandung kemih']
+kanker lambung,['kanker lambung']
+kanker paru-paru,"['kanker paru', 'kanker paru paru']"
+kanker payudara,"['kanker payu dara', 'kanker payudara stadium lokal lanjutmetastasis', 'kanker payudara stadium lanjut', 'karsinoma payudara', 'kanker payudara', 'kanker payudara stadium dini']"
+kanker prostat,['kanker prostat']
+kanker rahim,['kanker rahim']
+kanker tenggorokan,['kanker tenggorokan']
+kapalan,"['kapalan', 'kalos kapalan', 'kalus kapalan']"
+kardiomiopati,['cardiomiopati obstruktif hipertrofik']
+kejang,"['kejang otot', 'kejang bronkus', 'kejang']"
+kelahiran prematur,"['prematur', 'ancaman kelahiran prematur']"
+kelainan darah,['kelainan darah']
+kelainan kulit,['kelainan kulit']
+kelainan muskuloskeletal akut,['kelainan muskuloskeletal akut']
+kelainan periodontal,['kelainan periodontal']
+kelainan saraf,['kelainan saraf']
+kencing manis,['kencing manis']
+keputihan,"['gatal akibat keputihan', 'keputihan']"
+keracunan,['keracunan']
+keracunan alkohol,"['intoksinasi alkohol', 'keracunan alkohol']"
+keracunan darah,"['keracunan darah', 'septikemia keracunan darah bakteri']"
+keracunan hati,['keracunan hati']
+keracunan obat,['keracunan obat']
+keratitis,"['keratitis bakterial', 'keratitis akibat infeksi virus superfisial', 'keratitis', 'keratitis metaherpetikum', 'keratitis fungal', 'keratitis dendritis', 'keratitis superfisial nonspesifik', 'keratitis kronik', 'keratitis jamur', 'fungal keratitis', 'keratitis gangguan peradangan okular', 'keratitis akut']"
+keratokonjungtivitis,"['keratokonjungtivitis sicca', 'keratokonjungtivitis']"
+keratosis pilaris,['keratosis pilaris']
+keseleo,"['keseleo tegang', 'memar keseleo', 'kesleo', 'sprains keseleo', 'sprains', 'keseleo terkilir', 'keseleo']"
+kesemutan,['kesemutan']
+ketombe,"['ketombe', 'ketombe disebabkan pytirosporum ovale', 'ketombe dikulit kepala']"
+kista,"['kista', 'miom kista']"
+klaudikasio intermiten,"['klaudikasio intermiten', 'klaudikasi intermiten']"
+kolera,['kolera']
+kolesterol,"['kolesterol ldl', 'kolesterol total', 'kolesterol jahat', 'kolesterol', 'ldl']"
+kolik,"['kolik', 'sakit kolik', 'nyeri kolik', 'kholik', 'kolik empedu']"
+kolik ginjal,"['kolik empedu ginjal', 'kolik ginjal empedu', 'kolik ginjal']"
+kolik kandung kemih,"['kolik kandung kemih', 'kolik ginjal kandung kemih']"
+koma,"['koma hepatic', 'koma hepatik', 'prekoma hepatik', 'pre koma hepatik', 'prekoma', 'koma']"
+komedo,"['komedo', 'peradangan dengan komedo']"
+komplikasi paru pasca bedah,['komplikasi paru pasca bedah']
+konjungtivitis,"['konjungtivitas', 'konjungtivitis infeksi e', 'konjungtivitis alergi', 'konjungtivitis', 'konjungtivitis nonpurulen akut kronis', 'konjungktivitis', 'konjungtivitis nonpurulen', 'konjungtivitis infeksi bakteri', 'konjungtivitis folikular', 'konjungtivitis alergi radang selaput ikat mata akibat alergi', 'konjungtivitis bakterial', 'konjungtivitis vernal']"
+konstipasi,"['konstipasi akut kronik', 'konstipasi superscript', 'konstipasi kronik', 'konstipasi kronis', 'konstipasi akut', 'konstipasi', 'konstipasi atoni']"
+kram otot,"['kram otot', 'spasme otot', 'spasme kram otot', 'spasme kram muskuloskeletal', 'nyeri spasme kram otot polo', 'kram']"
+kram perut,"['kram perut disebabkan oleh menstruasi dysmenorrhea', 'sakit kram perut', 'kram perut']"
+kram saluran kemih,['kram saluran kemih kelamin']
+kram saluran pencernaan,"['kram saluran cerna', 'kram saluran cerna pylorus']"
+kriptokokal,['kriptokokal']
+kriptosporidiosis,"['kriptosporidiosis', 'cryptosporidiosis']"
+kudis,"['panu kadas', 'scabies kudis', 'kadas', 'kudis']"
+kulit kering,['kulit kering']
+kurap,"['kurap', 'kadaskurap']"
+kutil,"['kutil kalus', 'kutil']"
+kutu air,"['tinea pedis kutu air', 'kutu air', 'kutu air rangen']"
+kutu badan,['kutu badan']
+kutu rambut,['kutu rambut']
+labirinitis,"['labirinitis', 'sindroma meniere labirinitis']"
+lambliasis,['lambliasis']
+laringitis,"['laryngitis', 'laringitis']"
+leher pegal dan kaku,"['pegal leher', 'leher kaku terkilir', 'kaku', 'leher kaku bahu', 'leher kaku']"
+leptospirosis,['leptospirosis']
+lesi kulit,"['lesi2 kulit lainnya', 'lesi2 kulit']"
+lesi mulut,['lesi inflamasi oral']
+lichen planus,"['likhen planus erosif', 'lichen planus', 'liken planus', 'likhen planus']"
+limfogranuloma inguinale,['limfogranuloma inguinale']
+luka,"['luka', 'luka kronik']"
+luka bakar,"['luka bakar ringan', 'luka bakar akibat bahan kimia', 'luka bakar terinfeksi', 'luka bakar']"
+luka tusuk,['luka tusuk']
+luka usus,"['luka usus duodenal', 'luka lambung usus', 'luka usus']"
+lupus,"['lupus eritematosus diskoid', 'lupus eritematosus discoid', 'lupus eritematosus', 'lupus', 'lupus eritematosus diskoid kondisi tidak respon kortikosteroid aktif', 'lupus eritemmantosus', 'lupus eritematosus diskoid tidak respon kortikosteroid aktif']"
+mabuk perjalanan,"['mabuk kendaraan', 'mabuk', 'pencegahan mabuk perjalanan', 'mabuk perjalanan', 'mabuk karena kendaraan']"
+makrosomia,['makrosomia']
+malaria,"['malaria falciparum', 'pencegahan malaria', 'malaria']"
+masuk angin,"['masuk angin', 'gejala masuk angin']"
+mata gatal,"['gatal mata', 'gatal panas mata']"
+mata ikan,['mata ikan']
+mata kering,"['kekeringan mata', 'sindroma mata kering', 'mata kering']"
+mata lelah,['mata lelah']
+mata merah,"['kemerahan mata', 'mata merah', 'iritasi mata merah', 'peradangan mata merah']"
+melasma,"['melasma derajat sedang hingga berat', 'melasma']"
+memar,"['luka memar', 'terkilir memar', 'memar']"
+meningitis,"['bakteri gram negatif penyebab bakteria meningitis', 'kuman gram negatif penyebab meningitis bakteremia', 'bakteria meningitis', 'bakteri gr menyebabkan meningitis', 'bakteri gr  menyebabkan meningitis', 'meningitis', 'gram negatif menyebabkan bakteremia meningitis', 'tuberkulosis meningitis', 'meningitis bakteri gram negatif', 'meningitis nontbc', 'bakteremia meningitis', 'meningitis kriptokokal', 'meningitis disebabkan bakteri gram negatif', 'meningitis bakteremia']"
+menopause,"['menopause', 'gangguan pasca menopause']"
+meriang,"['sumeng meriang', 'badan meriang', 'meriang']"
+mialgia,['mialgia']
+migrain,"['migraine', 'migraine akut', 'migrain', 'migrain akut']"
+mikosis,"['mikosis mulut kulit kandida', 'mikosis kulit dermatofita', 'mikosis', 'infeksi mikosis sistemik', 'mikosis sistemik', 'mikosis interdigitalis']"
+milia,['milia']
+miom,['miom']
+molluscum contagiosum,"['molluscum contagiosum', 'moluskum kontagiosum']"
+morning sickness,['morning sickness']
+mual,"['hiperasiditas mual', 'mual', 'mual akibat radiasi', 'rasa mual', 'gejala mual', 'perut mual', 'pening mual', 'mual akut']"
+mual muntah,"['mual muntah akibat penggunaal levodopa bromokriptin', 'mual dan muntah akibat radioterapi', 'mual muntah akut', 'mual pagi hari', 'mual muntah obat', 'mual muntah disebabkan oleh obat', 'mual muntah anak2 akibat kemoterapi radioterapi', 'mual dan muntah pada anak2 akibat kemoterapi  radioterapi', 'mual  muntah akut', 'mual dan muntah', 'mualmuntah paska operasi', 'mual muntah pasca operasi', 'mual dan muntah yang dipicu oleh radioterapi', 'mual dan muntah yang disebabkan oleh obat', 'mual di pagi hari', 'mual muntah dipicu oleh radioterapi', 'mual  muntah yang disebabkan kemoterapi  radioterapi untuk kanker', 'mual muntah akibat obat', 'mual dan muntah akibat kemoterapi  radioterapi', 'mual paska operasi', 'mual muntah kemoterapi radioterapi', 'mual dan muntah yang diinduksi obat kemoterapi sitotoksik', 'mual muntah kemoterapi', 'mual dan muntah yang disebabkan radioterapi untuk kanker', 'mual muntah disebabkan radioterapi untuk kanker', 'mual dan muntah akibat obat', 'mual atau muntah', 'mual dan muntah yang disebabkan kemoterapi', 'mual muntah radioterapi', 'mual muntah', 'mual dan muntah karena radioterapi', 'mual dan muntah akut', 'mual atau muntah pasca operasi', 'mual dan muntah akibat kemoterapi', 'mual meriang', 'mual dan muntah karena obat', 'mual dan muntah pasca pembedahan', 'mual muntah pasca pembedahan', 'mual dan muntah pasca operasi', 'mual muntah kehamilan', 'mual muntah akibat radioterapi', 'mual dan muntah pada anak akibat kemoterapi dan radioterapi', 'mual muntah akibat kemoterapi radioterapi', 'mual dan muntah karena kemoterapi dan radioterapi', 'mual muntah akibat kemoterapi', 'mual muntah diinduksi obat kemoterapi sitotoksik', 'mual dan muntah akibat kemoterapi dan radioterapi', 'mual muntah disebabkan kemoterapi', 'mual muntah akibat gangguan metabolik pasca operasi', 'maul akut', 'mual muntah disebabkan kemoterapi radioterapi untuk kanker', 'mual dan muntah paska operasi', 'mual muntah paska operasi', 'mual muntah anak akibat kemoterapi radioterapi', 'mual dan muntah karena kemoterapi', 'maul', 'mual muntah kemoterapi emetogenik', 'mual  muntah yang disebabkan kemoterapi', 'mual dan muntah akibat penggunaal levodopa dan bromokriptin', 'mual  muntah']"
+mulut kering,['mulut kering']
+muntah,"['muntah saat hamil', 'muntahmuntah bromokriptin', 'muntahmuntah karena levodopa', 'muntah dalam perjalanan', 'muntah akut', 'muntah muntah', 'muntah  muntah', 'muntah ringan', 'muntah', 'muntah dalam perjalanan yang diderita jika mempergunakan kendaraan bermotor kapal kereta api atau pesawat udara', 'muntah paska anestesi', 'muntahmuntah', 'mual paska anestesi', 'muntah saat perjalanan', 'muntah kehamilan', 'maul akut muntahmuntah', 'muntah pada kehamilan', 'muntahmuntah karena bromokriptin', 'muntah pasca operasi', 'muntah paska operasi', 'muntahmuntah levodopa', 'muntah dalam perjalanan diderita jika mempergunakan kendaraan bermotor kapal kereta api pesawat udara']"
+myasthenia gravis,"['myasthenia gravis', 'miastenia gravis']"
+myositis,"['myositis', 'miositis']"
+nefropati,['nefropati']
+nefropati diabetik,['nefropati diabetik']
+neuralgia,['neuralgia']
+neuritis,"['neuritis neuralgia', 'neuritis perifer', 'neuritis', 'neuritis reumatik', 'neuritis kehamilan']"
+neuritis optik,"['neuritis optika', 'neuritis optik']"
+neurodermatitis,"['neuro-dermatitis', 'neurodermatitis lokalisata', 'neurodermatitis', 'neurodermatitis kontak']"
+neuropati,"['neuropati vagal diabetikum', 'neuropati']"
+neuropati diabetik,"['neuropati diabetik', 'neuropati diabetika']"
+neuropati perifer,['neuropati perifer']
+nistagmus,['nistagmus']
+nyeri,"['nyeri sedang berat', 'sakit nyeri ringan', 'nyeri sakit', 'nyeri akibat memar', 'nyeri lain', 'nyeri ringan', 'nyeri akut derajat berat', 'sakitnyeri', 'nyeri kronis akut', 'nyeri akut', 'nyeri berat', 'nyeri']"
+nyeri bahu,"['nyeri otot bahu', 'nyeri bahu', 'nyeri otot leher bahu punggung', 'rasa sakit otot bahu']"
+nyeri cedera,"['nyeri cedera', 'nyeri akibat terkilir terpukul']"
+nyeri gigi,"['meredakan nyeri gigi ringan', 'nyeri gigi', 'nyeri gigi ringan hingga sedang', 'nyeri gigi sedang', 'nyeri gigi ringan']"
+nyeri inflamasi,['nyeri inflamasi']
+nyeri kaki,['nyeri kaki']
+nyeri kepala,['nyeri kepala']
+nyeri kolumna vertebra,[]
+nyeri lambung,"['nyeri lambung', 'nyeri paroksismal penyakit lambung usus halus']"
+nyeri leher,"['sakit otot leher pundak', 'nyeri leher', 'nyeri otot leher', 'sakit otot leher', 'rasa sakit leher']"
+nyeri lutut,['nyeri lutut']
+nyeri muskuloskeletal,"['nyeri muskuloskeletal lain', 'nyeri muskuloskeletal', 'nyeri muskuloskeletal akut', 'nyeri muskuloskeletal kronik', 'nyeri musculoskeletal akut', 'nyeri muskuloskeletal kronis']"
+nyeri otot,"['nyeri otot', 'nyeri ringan sedang otot', 'nyeri otot olahraga']"
+nyeri pasca bedah,"['nyeri paska bedah', 'nyeri lokal paska bedah mulut', 'nyeri paskabedah']"
+nyeri pasca operasi,"['nyeri setelah traumapasca operasi', 'nyeri sesudah operasi', 'nyeri operasi', 'nyeri paska operasi', 'nyeri pasca operasi pasca bedah gigi tulang', 'setelah operasi', 'nyeri yang muncul setelah operasi', 'meredakan nyeri pasca operasi', 'nyeri muncul setelah operasi', 'nyeri pasca bedah', 'nyeri pasca operasi derajat', 'nyeri cabut gigi', 'nyeri perut sehabis operasi', 'nyeri pasca operasi', 'sakit setelah operasi', 'nyeri inflamasi pasca op', 'nyeri pasca op', 'pencabutan gigi nyeri operasi', 'nyeri pasca operasi cabut gigi', 'nyeri sehabis operasi']"
+nyeri pasca partum,"['pasca partum', 'nyeri pasca partum']"
+nyeri pasca trauma,"['nyeri setelah traumatik', 'nyeri traumatik', 'nyeri pasca trauma', 'nyeri trauma operasi', 'nyeri trauma', 'nyeri inflamasi pasca trauma terkilir', 'nyeri akibat trauma', 'nyeri inflamasi pasca trauma']"
+nyeri pasca vaksinasi,['nyeri pasca vaksinasi']
+nyeri perut,['nyeri perut']
+nyeri pinggang,"['nyeri pinggang', 'nyeri otot pinggang']"
+nyeri punggung,"['nyeri tulang punggung', 'nyeri punggung', 'nyeri otot punggung', 'sakit nyeri punggung', 'nyeri pada punggung', 'nyeri dipunggung']"
+nyeri saraf,"['neuralgia nyeri saraf', 'nyeri saraf']"
+nyeri sendi,"['nyeri sendi', 'pegal nyeri sendi', 'pegal linu nyeri sendi', 'nyeri sendi akibat reumatik', 'nyeri otot sendi', 'nyeri pegalpegal otot sendi']"
+nyeri spastik,"['nyeri spastik saluran kemih', 'spastik organ genital wanita', 'nyeri spastik saluran empedu', 'nyeri paroxismal lambung usus halus nyeri spastik saluran empedu saluran kemih organ genital wanita', 'nyeri spastik organ genital wanita', 'nyeri spastik sistem genital wanita', 'nyeri spastik']"
+nyeri telinga,['nyeri telinga']
+nyeri tenggorokan,['nyeri tenggorokan']
+nyeri tulang,['nyeri tulang']
+oligomenorea,"['oligomenorea', 'oligomenore']"
+oligospermia,"['oligospermia', 'oligospermia pria']"
+onkomikosis,"['onikomikosis', 'onkomikosis']"
+orchitis,['orchitis']
+osteoarthritis,"['sindroma nyeri kolumna vertebralis', 'oa eksaserbasi akut', 'osteoartritis oa', 'osteoartritis spondilosa artritis', 'eksacerbasi akut osteoarthritis', 'osteoarthritis (oa)', 'osteoartrosis', 'osteoartritis spondilosa', 'osteoartritis', 'osteoartritis jangka pendek', 'artritis tulang punggung', 'osteo arthritis', 'osteoartritis kolumna vertebralis', 'herniated osteoarthritis', 'osteoarthritis', 'osteoatritis panggul', 'nyeri osteoarthritis', 'gejala osteoartritis', 'osteoartritis akut', 'eksaserbasi akut oa', 'osteoarthritis oa', 'osteoartritis spondilartritis', 'ostearthiritis', 'osteaoarthritis', 'oa', 'osteoartritis eksaserbasi akut']"
+osteodistrofi ginjal,"['osteodistrofi ginjal', 'osteodistrofi']"
+osteogenesis imperfecta,"['osteogenesis imperfecta', 'osteogenesis imperfekta']"
+osteomielitis,"['infeksi osteomielitis radang sumsum tulang', 'infeksi osteomielitis', 'osteomielitis radang sumsum tulang', 'osteomielitis radang sumsum tulang akut', 'osteomielitis akut', 'osteomielitisradang sumsum tulang', 'osteomielitis', 'intra abdominal osteomielitis']"
+osteopetrosis,['osteopetrosis']
+osteoporosis,"['osteoporosis', 'ostoroposis', 'osteoporosis sekunder', 'osteoporosis primer', 'ostoroposis tulang', 'osteoporosis paska menopause']"
+otitis eksterna,"['otitis eksterna kronis', 'otitis eksterna', 'otitis externa khronik', 'otitis externa atau peradangan pada telinga bagian luar', 'otitis externa akut', 'otitis eksterna kronik', 'otitis externa', 'otitis eksterna akut', 'otitis externa peradangan telinga bagian luar', 'otitis externa akut khronik']"
+otitis media,"['medium', 'otitis media radang telinga tengah akut', 'infeksi tht otitis medium akut sinusitis akut', 'otitis media radang rongga gendang telinga', 'otitis media kronis', 'otitis media supuratif', 'otitis medium sal nafas', 'otitis media akut', 'otitis medium radang rongga gendang telinga', 'otitis medium akuta', 'infeksi gl otitis medium bekterial', 'otitis medium akut', 'otitis media', 'otitis media supuratif kronik', 'otitis medium', 'otitis']"
+otomikosis,['otomikosis']
+panas,"['panas', 'panas disertai tenggorokan kering']"
+panas dalam,"['panas dalam', 'panas dalam disertai tenggorokan kering']"
+pankreatitis akut,"['pankreatitis akut', 'pankreatitis']"
+panu,"['tinea versicolor', 'tinea pityriasis versicolor', 'tinea versicolor panu', 'panu']"
+paratifus,"['tifus dan paratifus', 'tifus epidemi', 'demam tifus paratifus', 'demam paratifus', 'tifus  paratifus', 'tifoid paratifoid', 'demam tifoid paratifoid', 'go infeksi gl tifoid paratifoid', 'tifoid', 'paratifus', 'tifus paratifus']"
+paronikia,"['paronikhia', 'paronikia']"
+parotitis,['parotitis']
+pegal linu,"['pegal otot sendi', 'pegal linu', 'pegal pegal', 'pegal']"
+pembengkakan,"['pembengkakan rambut', 'pembengkakan']"
+pembengkakan otak,['pembengkakan otak']
+pembengkakan pasca bedah,['pembengkakan pasca bedah']
+pembengkakan pasca trauma,['pembengkakan pasca trauma']
+pembengkakan prostat,['pembengkakan prostat']
+pendaharan,['perdarahan']
+pendaharan hidung,"['perdarahan hidung', 'perdarahan hidung ringan']"
+pening,['pening']
+penyakit akibat virus,"['penyakit virus', 'virus superfisial', 'virus', 'penyakit virus lainnya', 'virus jamur']"
+penyakit arteri koroner,"['penyakit arteri koroner stabil', 'penyakit arteri koroner']"
+penyakit arteri perifer,"['penyakit arteri', 'oklusi arteri kronik', 'penyakit arteri perifer', 'oklusi arteri perifer kronis']"
+penyakit behcet,['penyakit behcet']
+penyakit crohn,"['penyakit crohn ringan sedang', 'crohn', 'penyakit crohn']"
+penyakit gigi,"['penyakit gigi gusi', 'penyakit gigi']"
+penyakit ginjal,"['penyakit ginjal', 'penyakit ginjal stadium ginjal', 'penyakit ginjal kronik', 'penyakit ginjal hati']"
+penyakit hati,"['penyakit hati', 'penyakit hati akut kronis']"
+penyakit infeksi,"['penyakit infeksi kulit', 'penyakit infeksi hpylori', 'infeksi penyakit eksaserbasi akut', 'hpylori', 'penyakit infeksi ringan', 'penyakit infeksi']"
+penyakit jantung,"['penyakit jantung', 'penyakit jantung hati']"
+penyakit jantung koroner,"['penyakit koroner kronik', 'penyakit jantung koroner', 'penyakit2 koroner khronik']"
+penyakit kulit,"['penyakit dermatologik lain', 'penyakit kulit lainnya', 'dermatologik', 'penyakit kulit jaringan lunak', 'penyakit2 kulit', 'penyakit kulit dengan peradangan', 'penyakit infeksi kulit jaringan lunak', 'penyakit kkulit', 'penyakit kulit', 'penyakit kulit janggut jamur', 'penyakit kulit lain']"
+penyakit liver,['penyakit liver']
+penyakit mata,['penyakit mata']
+penyakit meniere,"['sindrom meniere', 'penyakit meniere', 'sindrom meniere s', 'penyakit meniere s', 'sindroma meniere', 'meniere', 'gangguan meniere']"
+penyakit menular seksual,"['penyakit hubungan seksual', 'penyakit menular seksual']"
+penyakit paget,['penyakit paget']
+penyakit paru obstruktif kronis,"['penyakit2 paru', 'penyakit paru obstruktif kronik (ppok)', 'penyakit paru obstruktif kronis eksaserbasi akut', 'obstruksi saluran napa', 'penyakit paru obstruktif kronis', 'paru obstruktif kronik', 'obstruksi saluran nafas kronik', 'penyakit paru obstruktif kronik ppok', 'obstruksi kronik', 'penyakit2 obstruksi saluran nafas', 'penyakit paru obstruktif kronik', 'obstruksi saluran nafas', 'penyakit paru', 'obstruksi saluran napa reversible asma']"
+penyakit pes,['penyakit pes']
+penyakit saluran empedu,"['sakit kandung empedu', 'penyakit2 kandung empedu saluran empedu']"
+penyakit saluran pernapasan,"['penyakit saluran nafas kronik', 'penyakit pernapasan akut kronik', 'penyakit saluran napas atas lain', 'penyakit saluran napas akut khronik', 'penyakit saluran pernafasan akut kronik', 'penyakit saluran nafas akut', 'penyakit disebabkan oleh virus saluran nafas', 'penyakit disebabkan oleh virus saluran napas', 'penyakit saluran napa', 'penyakit saluran pernafasan akut', 'penyakit saluran pernafasan', 'penyakit saluran pernafasan kronik', 'penyakit saluran nafas akut kronik', 'penyakit saluran nafas', 'penyakitpenyakit saluran pernafasan akut kronis', 'pernapasan akut kronik', 'penyakit saluran pernafasan kronis', 'penyakit saluran napa akut kronik']"
+penyakit saraf,['penyakit saraf']
+penyakit tulang,['sakit tulang']
+penyempitan saluran napas,"['penyempitan saluran napas', 'penyempitan', 'penyumbatan', 'penyumbatan saluran nafas', 'sumbatan saluran napas', 'penyakit penyumbatan saluran nafas']"
+peradangan operasi gigi,['peradangan operasi gigi']
+perdarahan gastrointestinal,"['perdarahan gastrointestinal', 'profilaksis perdarahan gastrointestinal']"
+perdarahan saluran pencernaan,"['perdarahan saluran cerna atas', 'perdarahan saluran pencernaan']"
+perdarahan subarachnoid,"['pendarahan subarakhnoid', 'perdarahan subarachnoid']"
+periartritis,"['periartritis bahu', 'periartritis pinggul', 'periarthritis', 'periartritis']"
+perikarditis,['perikarditis']
+periodontitis,"['periodontitis', 'priodontitis']"
+peritonitis,"['peritoditis', 'radang selaput perut', 'peritonitis radang selaput perut', 'peritonitis']"
+perut kembung,"['tidak nyaman perut', 'peredangan perut kembung', 'perut kembung', 'rasa kembung', 'gejala masuk angin seperti perut kembung mual', 'kembung', 'kembung masuk angin', 'perut kembung masuk angin', 'kembung rasa tidak nyaman perut']"
+pilek,"['pilek rinorea', 'pilek', 'pilek anakanak', 'pilek alergi']"
+pirosis,['pirosis']
+pitiriasis kapitis,['pitiriasis kapitis']
+plak mulut,['akumulasi plak rongga mulut']
+pleuritis,['pleuritis']
+plineuritis,"['b12 plineuritis neuralgia', 'plineuritis']"
+pneumonia,"['pneumonia cystitis', 'pneumonia akibat streptococcus', 's  pneumoniae', 'pneumonia akut', 'spneumoniae', 'pneumonia atipik primer', 'pneumonia komuniti', 'kuman h influenzae s pneumoniae', 'pneumonia strep hemolitikus', 'pneumonia dr lingkungan', 's pneumoniae', 'pneumonia saluran napa', 's.pneumoniae', 'streptococus pneumonia', 'pneumonia lingkungan', 'pneumonia nosokomial', 'pneumonia komunitas', 'pneumonia akibat lingkungan', 'pneumonia', 'pneumonia bakteri', 'pneumonia masyarakat', 'pneumonitis anaerob', 'acquired pneumonia', 'pneumonia yang didapat dari lingkungan', 'pneumonia komunitas communityacquired pneumonia', 'streptococcus pneumoniae', 'pneumonia didapat dari lingkungan', 'pneumonia faringitis']"
+pneumonia aspirasi,['pneumonia aspirasi']
+poliartritis kronik,['poliartritis kronik']
+polineuritis,"['polineuritis', 'polyneuritis']"
+polineuropati diabetik,"['polineuropati diabetikum', 'polineuropati diabetik']"
+polip,['polip']
+polip hidung,['polip hidung']
+polip usus,['polip usus besar']
+polisitemia vera,['polisitemia vera']
+proktitis,['proktitis']
+prostatitis,"['pielitis prostatitis akut kronis', 'isk prostatitis', 'prostatitis bakteri kronis', 'prostatitis akut', 'prostatitis bakterial kronik', 'prostatitis']"
+prurigo,"['prurigo', 'ekzema prurigo']"
+pruritus,"['pruritus anogenital', 'pruritus anogential', 'pruritus alergi', 'pruritus anus', 'alergi pruritis', 'pruritus urtikaria khronik idiopathik', 'pruritus gatalgatal anus vulvagenital external wanita', 'pruritis ani', 'pruritis', 'pruritus pada urtikaria khronik idiopathik', 'pruritus', 'pruritus atau gatalgatal pada anus dan vulvagenital external pada wanita', 'urtikaria khronik idiopathik', 'pruritus di anus', 'pruritis anogenital']"
+pseudohipoparatiroidisme,['pseudohipoparatiroidisme']
+psikosis,['psikosis']
+psitakosis,"['lympogranulloma psittacosis', 'pittacosis', 'limfogranuloma psitakosis', 'psithachosis', 'lymphomagranuloma pittacosis', 'psittacosis', 'limfogranuloma psittacosis', 'psitakosis']"
+psoriasis,"['inflamasi psoriasis', 'psoriasis kecuali plak', 'psoriasis diskoid', 'psoriasis', 'lesi psoriasis', 'vulva psoriasis', 'psoriasis ']"
+punggung pegal dan kaku,['punggung pegal']
+purpura,['purpura']
+pusing,"['pusing yang berhubungan dengan gangguan keseimbangan pada gangguan sirkulasi darah', 'kepala pusing', 'pusing', 'pusingmigren', 'pusing berhubungan dengan gangguan keseimbangan gangguan sirkulasi darah', 'capek pusing', 'pusingpusing', 'pusing vestibular']"
+rachitis,['rachitis']
+radang,"['radang akut', 'radang akut berat', 'radang akibat amandel', 'radang', 'radang akut yang berat', 'peradangan']"
+radang ginjal,"['radang ginjal', 'radang pasu ginjal', 'pielonefritis radang ginjal serentak radang pasu ginjal']"
+radang gusi,['radang gusi']
+radang hati,['peradangan hati']
+radang hidung,"['peradangan mukosa hidung', 'peradangan hidung', 'peradangan akibat infeksi hidung']"
+radang jaringan kuku,['radang jaringan kuku']
+radang kulit,"['radang kkulit', 'radang kulit']"
+radang mata,"['penyakit radang mata', 'gangguan radang mata', 'radang kornea mata', 'radang mata akibat reaksi alergi', 'peradangan mata', 'radang kantung air mata', 'radang saraf mata', 'radang selaput bening mata', 'radang selaput ikat mata', 'radang kelopak mata', 'peradangan selaput mata']"
+radang mulut,"['peradangan rongga mulut tenggorokan', 'radang selaput lendir mulut', 'peradangan radang mulut', 'radang mulut']"
+radang otot,['radang otot']
+radang panggul,['penyakit radang panggul']
+radang pankreas,['radang pankreas']
+radang prostat,['radang prostat']
+radang saluran pernapasan,"['radang saluran nafas', 'radang ringan saluran nafas', 'peradangan saluran pernafasan bagian atas']"
+radang saraf,['radang saraf']
+radang selaput lendir,['radang selaput lendir']
+radang sendi,"['peradangan sendi', 'radang sendi']"
+radang sumsum tulang,"['radang sumsum tulang', 'radang sumsum tulang akut']"
+radang telinga,"['inflamasi radang telinga', 'radang telinga bagian luar', 'radang telinga tengah', 'radang telinga bagian luar  tengah', 'radang telinga akut kronis', 'radang rongga gendang telinga', 'radang telinga bagian luar tengah', 'radang telinga bagian tengah']"
+radang tenggorokan,['radang tenggorokan']
+radang usus,"['radang pada usus', 'radang usus', 'radang usus halus', 'radang usus peradangan usus']"
+rakitis,"['rakhitis akibat defisiensi vit  d', 'rickets', 'infeksi ricketsia', 'rakhitis akibat defisiensi vit d', 'rachitis rickets', 'penyakit rickets', 'ricketsia', 'rakhitis']"
+rambut rontok,"['kerontokan rambut', 'rambut rontok']"
+reactive arthritis,['reactive arthritis']
+rematik,"['renatik tulang', 'rematik', 'penyakit reumatik', 'penyakit renatik tulang', 'rheumatik', 'rematik non artikular', 'nonartikular reumatik', 'nyeri reumatik', 'reumatik tulang', 'rematik tulang', 'reumatik non artikular sakit tulang', 'reumatik non artikular', 'reumatik non sendi', 'reumatik jaringan lunak terlokalisir', 'nyeri penyakit reumatik', 'reumatik', 'non artikular reumatik', 'reumatik nonartikular', 'reumatik sendi', 'rematik nonartikular']"
+retensi urin pasca operasi,['retensi urin pasca operasi']
+rheumatoid arthritis,"['gejala artritis reumatoid', 'juvenile artritis reumatoid', 'rheumatoid arthritis poliartritis kronik', 'rematoid artritis', 'atritis rematoid', 'pasien rematoid atritis akut kronis', 'artritis rematoid aktif', 'reumatoid artritis akut kronis', 'rheumatoid arthritis ra', 'reumatik generatif atritis rematoid', 'rematoid atritis akut', 'rematik artritis', 'rematoid atritis akut kronis', 'gejala juvenile artritis reumatoid', 'arthritis reumatik', 'reumatoid artritis kronis', 'artritis rheumatoid juvenil', 'arthritis rheumatoid', 'reumatoid arthritis', 'rematoid atritis kronis', 'artritis rheumatoid', 'rematoid astritis ar', 'rheumatoid arthritis', 'rematoid artitis', 'reumatoid atritis kronis', 'ra', 'reumatoid atritis akut', 'nyeri rematoid atritis kronis', 'artritis rematoid', 'reumatoid atritis', 'rematoid', 'arthritis reumatoid ar', 'rheumatoid arhritis', 'reumatoid artritis', 'rematoid athritis', 'reumatoid artritis akut', 'ar', 'reumatoid atritis akut kronis', 'nyeri rematoid atritis akut', 'inflamasi degeneratif artritis rematoid', 'rheumatoid artritis', 'artritis reumatoid', 'arthritis reumatoid']"
+rhinitis,"['rinitis vasomotorik', 'rhinitis vasomotor', 'rhinitis', 'rinitis menahun', 'perennial rhinitis', 'vasomotor rhinitis', 'rinitis purulen', 'rinitis parenial', 'rinitis vasomotor']"
+rhinitis alergi,"['rinitis alergi tahunan musiman', 'alergi rinitis', 'rinitis persisten', 'rinitis perenial', 'rinitis alergi nasal', 'rinitis alergi perenial', 'alergi pernafasan', 'allergic rhinitis', 'rinitis alergi musiman tahunan', 'rinitis alergi seasonal', 'rinitis alergi seasonal perenial', 'rhinitis alergika', 'alergi rinitis perenial', 'rinitis alergi konjungtivitis', 'alergi rinitis intermiten persisten menerus', 'rinitis alergi musiman', 'alergi rinitis nasal nonnasal', 'alergi rinitis intermitensewaktu', 'rinitis intermiten', 'rinitis alergi persisten', 'alergi rhinitis', 'rinitis alergika', 'alergi hidung', 'rinitis musiman', 'rinitis alergik', 'rinitis alergi musiman perennial', 'rhinitis alergi', 'rinitis alergi menahun musiman', 'alergi rinitis persistenterusmenerus', 'rinitis', 'alergi rinitis intermiten persisten  menerus', 'rinitis alergi', 'alergi rinitis nasal  nonnasal']"
+riketsiosis,['riketsiosis']
+ruam merah,"['merah', 'kemerahan', 'ruam merah', 'bercak merah', 'kemerahan keadaan inflamasi', 'merah iritasi']"
+ruam popok,['ruam popok']
+sakit gigi,"['sakit saat pertumbuhan gigi', 'sakit gigi nyeri ringan', 'sakil gigi', 'sakit gigi']"
+sakit kepala,"['skit kepala', 'sakit kepala derajat sedang', 'nyeri sakit kepala', 'sakit kepalan', 'sakit kepala kekakuan otot', 'sakit kepala', 'sakit kepala sebelah', 'sakit kepala vaskular', 'sakit kepala sakit gigi']"
+sakit maag,"['sakit maag', 'maag']"
+sakit otot,['sakit otot']
+sakit pasca vaksinasi,"['sakit paska vaksinasi', 'sakit pasca vaksinasi']"
+sakit perut,['sakit perut']
+sakit pinggang,"['sakit pinggan', 'sakit pinggang', 'sakit otot pinggang']"
+sakit punggung,"['sakit punggung', 'sakit punggung bawah', 'sakit punggung bagian bawah']"
+sakit sendi,['sakit sendi']
+sakit tenggorokan,"['sakıt tenggorokan', 'sakit tenggorokan', 'rasa sakit tenggorokan', 'rasa sakit di tenggorokan']"
+salpingitis,['salpingitis']
+sariawan,"['nyeri akibat sariawan', 'panas dalam disertai sariawan', 'sariawan', 'tukak sariawan']"
+selulitis,"['selulitis pelvis', 'selulitis pelvis pasca operasi vagina', 'selulitis']"
+sendi kaku,['kekakuan sendi']
+sepsis,"['sepsis puerperal intra abdomen', 'sepsis', 'sepsis purpura', 'sepsis intra abdominal', 'sepsis intraabdominal', 'sepsis puerperal']"
+septic arthritis,"['artritis septik', 'artritis septik osteomielitis']"
+septikemia,"['septikemia keracunan darah oleh bakteri patogenik danatau zatzat dihasilkan oleh bakteri tersebut', 'septikemiakeracunan darah oleh bakteri patogenik zatzat dihasilkan oleh bakteri tersebut']"
+serangan jantung,['serangan jantung']
+servisitis,"['servisitis sal pernafasan kecuali disebabkan streptococus', 'uretritis servisitis', 'servisitis go', 'infeksi servisitis non gonokokal', 'servisitis komplikasi', 'uretritis go servisitis komplikasi', 'cervicitis', 'uretritis servisitis go', 'servisitis sal pernafasan', 'servisitis']"
+sesak napas,"['sesak napas', 'mengi sesak napas paruparu asma', 'sesak nafas', 'sesak']"
+sicca,['sicca']
+sifilis,"['sipilis', 'sifilis']"
+sindrom nefrotik,"['sindrom nefrotik', 'sindroma nefrotik']"
+sindrom raynaud,"['sindroma raynaud', 'fenomena reynaud', 'sindrom raynaud', 'fenomena raynaud']"
+sindrom zollinger-ellison,"['hipersekrese patologis sindroma zollinger ellison', 'sindroma zollingerellison pendarahan gi', 'sindrom zollingerellison', 'sindrom zollinger ellison adenoma endokrin multiple', 'hipersekreasi patologis seperti sindroma zollingerellison', 'hipersekreasi patologis zollingerellison', 'sindrom zollinger ellison', 'hipersekreasi patologis sindrom zollinger ellison', 'sindroma zollinger ellison pendarahan gi', 'sindrom zollinger-ellison', 'sindrom zollinger', 'sindroma zollingerellison', 'hipersekresi patologis sindroma zollinger ellison', 'sindroma zollinger', 'zollinger ellison syndrome', 'sindrom zollinge', 'sindroma zollinger ellison', 'sindrom zollingerellison adenoma endokrin multiple']"
+sindroma leher,['sindroma leher']
+sinusitis,"['sinusitis akut', 'sinusitis', 'sinusitus', 'sinusitis maksilaris akut', 'sistitis', 'sinusitis maxillary akut', 'sinusitis bakterial akut', 'sinusitis alergi', 'sinusitis maksilaris']"
+sirosis,"['sirosis hepatik', 'sirosis hati', 'sirosis']"
+skiatika,['skiatika']
+skleritis,"['scleritis', 'skleritis']"
+skorbut,['skorbut']
+spasme kram muskuloskeletal,['spasme kram muskuloskeletal']
+spondilartritis,"['spondiloartritis akut', 'spondiloartritis', 'spondiloartritis akut kronik', 'spondilartritis', 'spondiloartritis kronik']"
+spondilitis deformans,['spondilitis deformans']
+stenosis pilorus,"['stenosis pilorus', 'stenosis pylorus', 'stenosis pilorik', 'stenosis pilorik bersifat ringan']"
+stres,"['stres', 'stress']"
+stroke,['stroke']
+stroke iskemik,"['stroke iskemik', 'stroke iskhemik', 'gejala iskhemik']"
+takikardia,"['takikardia supraventrikuler paroksismal', 'takikardia supraventrikular paroksismal', 'takikardia atrial ektopik', 'takikardia']"
+tbc (tuberkulosis),"['tuberkulosis', 'tbc paru', 'tb', 'tb aktif mycobacterium tuberculosa', 'tbc paru paru', 'tbc', 'tuberkulosis paru resisten', 'tbc infeksi mikobakterial', 'tb paru', 'mycobacterium tuberculosis', 'tuberkulosa', 'tbc ekstra paru', 'mycobacterium tuberculosa', 'tuberkulosis paru', 'tuberkulosa paru']"
+tendinitis,['tendinitis']
+tendovaginitis,['tendovaginitis']
+tenggorokan gatal,['tenggorokan gatal']
+tenggorokan kering,['tenggorokan kering']
+tetanus,['tetanus']
+tifus,"['tifus', 'demam tifus', 'scrub tifus', 'profilaksis scrub tifus']"
+tinea barbae,"['tinea barbae', 'sikosis barbae']"
+tinea capitis,"['tinea kapitis', 'tinea capitis', 'dermatomiosis kandidiasis mikosis sistemik tinea corporis tinea pidea tinea kapitis']"
+tinea corporis,"['tinea kruris korporis', 'tinea corporis', 'tinea korporis', 'tinea corporis kurap', 'tinea korporis kurap']"
+tinea cruris,"['tinea cruris gatal jamur selangkangan', 'tinea cruris', 'tinea kuris', 'tinea krusis', 'gatal jamur selangkangan', 'krusis', 'tinea kruris']"
+tinnitus,"['telinga berdengung', 'tinitus telinga berdenging', 'telinga berdengung tinnitus', 'tinitus', 'tinnitus']"
+tirotoksikosis,"['tirotoksikosis feokhromositoma', 'tirotoksikosis']"
+toksoplasmosis,"['profilaksis toksoplasmosis wanita hamil', 'infeksi toxoplasmosis', 'toksoplasmosis', 'infeksi toksoplasmosis', 'toxoplasmosis']"
+tonsilitis,"['tonsilitis', 'tonsilitis streptokokus']"
+trakhitis,['trakhitis']
+trauma terkilir,['trauma terkilir']
+tremor esensial,['tremor esensial']
+trikomoniasis,"['trikomoniasis', 'trikomoniasis salurah kemih kelamin']"
+tromboflebitis,['tromboflebitis']
+trombositemia,['trombositemia']
+trombositopenia,['trombositopenia']
+tukak lambung,"['pasien tukak lambung', 'tukak lambung duodenum', 'tukak lambung aktif', 'ulkus lambung usus halus', 'ulkus peptikum', 'tukak ulkus lambung', 'lesi lambung', 'ulkus lambung', 'tukak lambung ulkus peptik', 'tukak lambung jinak', 'tukak kulit', 'seperli tukak lambung', 'tukak peptik', 'tukak duodenum tukak lambung ringan', 'tukak', 'tukak lambung usus duabelas jari', 'tuka lambung', 'ulkus tukak lambung usus halus', 'penyakit lambung usus halus', 'tukak lambung usus', 'ulkus tukak lambung', 'luka lambung', 'ulkus peptikum disebabkan h pylori', 'tukak lambung ringan', 'tukak ulkus lambung ulkus tukak lambung paska tindakan', 'tukak lambung danatau usus halus', 'tukak khronik', 'tukak lambung', 'ulkus peptik', 'tukak ulkus peptikum', 'tukak ulkus peptik', 'tukak lambung tukak duodenum', 'ulkus tukak peptik', 'tukak ulkus lambung usus halus', 'tukak lambung jinak tukak pasca operasi', 'tukak lambung tukak usus halus']"
+tukak pasca operasi,['tukak pasca operasi']
+tukak traumatik,['tukak traumatik']
+tukak trofik,"['tukak trofik', 'tukak trofik varises']"
+tumor,"['tumor jinak', 'tumor']"
+ulkus,"['tukak ulkus', 'ulkus']"
+ulkus dekubitus,['ulkus dekubitus']
+ulkus duodenum,"['ulkus duodenal', 'tukak usus belas jari', 'ulkus peptik usus halus', 'ulus duodenum aktif', 'tukak duodenum hpylori', 'tukak usus dua belas jari', 'ulcus duodenal', 'tukak usus halus', 'ulkus aktif usus halus duodenum', 'tukak usus', 'lesi duodenum', 'tukak duodenal', 'tukakulkus usus halus', 'tukak usus 12 jari', 'tukak duodenum akut', 'tukak duodenum', 'ulkus tukak usus halus aktif', 'tukak usus belas jari aktif', 'tukak ulkus peptik usus halus', 'ulkus usus halus', 'ulkus usus halus duodenum', 'terapi ulkus usus halus duodenum paska aktifnya', 'ulkus duodenum aktif', 'luka duodenal', 'ulkus tukak usus halus', 'ulkus deudenum', 'lesi lambung duodenum', 'ulkus duodenum', 'tukak usus 12 jari lambung', 'tukak usus 12 jari aktif', 'tuka duodenal']"
+ulkus genital,"['penyakit ulkus genital orang dewasa', 'penyakit ulkus genital']"
+ulkus kornea,"['ulkus kornea', 'tukak kornea', 'ulkus pada kornea', 'luka kornea', 'tukak kornea mata']"
+ulkus sistem pencernaan,['ulkus sistem pencernaan']
+uretritis,"['urethris', 'gi uretritis', 'uretritis nongonokokus', 'uritritis non gonokokal', 'gi uretritis servisitis go', 'uretritis', 'urethritis vaginitis', 'infeksi uretritis', 'uritritis', 'uretritis non go', 'protozoa uretritis', 'uretritis nongonococcal', 'urethritis']"
+urogenital trichomoniasis,"['urogenital trichomoniasis', 'trikomoniasis sal kemih kelamin']"
+urtikaria,"['alergi urtikaria angioedema cold urticaria allergic rhinitis vasomotor rhinitis', 'manifestasi alergi kulit urtikaria', 'urtikaria', 'urtikaria kronik', 'cold urticaria', 'urtikaria idiopatik kronis', 'urtikaria khronik', 'rinitis urtikaria', 'urtikaria idiopatik kronik', 'urticaria', 'alergi urtikaria', 'cold urtikaria', 'urilkaria', 'urtikaria kronis', 'urtikaria idiopatik khronik']"
+uveitis,"['uveitis', 'chronic anterior uveitis']"
+vaginitis,"['vaginitis trichomonas vaginalis', 'vaginitis nonspesifik', 'vaginitis trichomonas', 'trichomonas vaginalis', 'vaginitis', 'vaginitis kandida']"
+vaginosis bakterialis,"['bacterial vaginosis', 'vaginosis bakterialis']"
+varicela,"['varicella zoster', 'varicela', 'varisela', 'varicella']"
+varises,['varises']
+vertigo,"['vertigo perifer', 'vertigo']"
+vulvitis,"['vulvitis', 'vulvitas']"
+wasir (ambeien),"['wasir (ambeien)', 'wasir', 'nyeri panas pendarahan akibat wasir', 'gejala wasir', 'ambien wasir', 'wasir kronik akut', 'hemoroid eksterna', 'wasir ambeien', 'hemoroid', 'wasir kronik', 'hemoroid akut internal eksternal', 'hemoroid eksternal', 'wasir kronis menahun', 'hemoroid interna eksterna', 'wasir akut']"
